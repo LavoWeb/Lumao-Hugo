@@ -1,7 +1,7 @@
 +++
 date = "2016-12-30T11:07:14+01:00"
 title = "Un registry Docker privé avec GitLab"
-draft = false
+draft = true
 
 +++
 Aller sur Gitlab.com

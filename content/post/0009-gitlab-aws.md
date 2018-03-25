@@ -1,7 +1,7 @@
 +++
 date = "2018-02-22T11:11:14+01:00"
 title = "Gitlab CI + AWS"
-draft = false
+draft = true
 slug = "gitlab-aws"
 +++
 Aujourd'hui, on va voir comment faire un déploiement automatique (**C**ontinuous **D**eployment, CD pour la suite)

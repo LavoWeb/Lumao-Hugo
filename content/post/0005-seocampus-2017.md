@@ -1,7 +1,7 @@
 +++
 date = "2017-03-10T12:17:14+01:00"
 title = "Présentation Seocampus 2017"
-draft = false
+draft = true
 
 +++
 Merci d'être venu si nombreux à ma conférence au [SEO Campus Paris 2017](http://paris.seo-campus.org/). J'étais _"un peu"_ stressé, j'espère que ça vous a plu quand même.

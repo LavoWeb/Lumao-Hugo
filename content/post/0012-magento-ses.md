@@ -1,7 +1,7 @@
 +++
 date = "2018-02-22T11:11:14+01:00"
 title = "Envoyer des mails via Amazon SES sur Magento 2"
-draft = false
+draft = true
 slug = "magento-ses"
 +++
 Comment envoyer des e-mails via Amazon **S**imple **E**mail **S**ervice pour un site sous Magento 2 ?

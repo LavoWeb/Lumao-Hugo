@@ -1,7 +1,7 @@
 +++
 date = "2016-12-24T18:49:14+01:00"
 title = "Hugo, GitHub Pages et Travis CI"
-draft = false
+draft = true
 
 +++
 
