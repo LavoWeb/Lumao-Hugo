@@ -1,8 +1,8 @@
 languageCode = "fr-fr"
 title = "Développement Magento"
-baseurl = "https://lumao.eu/"
+baseurl = "https://en.lumao.eu/"
 theme = "lumao"
 
 [params]
-    hreflang = "en"
-    hrefurl = "https://en.lumao.eu/"
+    hreflang = "fr"
+    hrefurl = "https://lumao.eu/"
