@@ -1,50 +1,51 @@
 +++
 date = "2017-04-07T13:41:14+01:00"
-title = "Développement Akeneo"
+title = "Akeneo development"
 draft = false
 tag = [ "prestation" ]
 slug = "developpement-akeneo"
 +++
-Akeneo est un **P**roduct **I**nformation **M**anagement. Avec cet outil, vous pouvez gérer des collections de produits très facilement. 
-Pour tous les formats, que ce soit web, print, les données ERP...
+Akeneo is a **P**roduct **I**nformation **M**anagement. With this tool, you can manage product collections very easily.
+For all formats, be it web, print, ERP data ...
 
-Le principe est que le PIM contient toutes les informations des produits et est le maitre de l'information. Il est souvent couplé avec un **D**ata **A**sset **M**anagement
-qui stocke les médias (photos, vidéos, musiques...).
+The principle is that the PIM contains all the information of the products and is the master of the information. 
+It is often coupled with a **D**ata **A**sset **M**anagement
+which stores the media (photos, videos, music ...).
 
-Akeneo est développé en Symfony 2 et repose sur Oro Platform, un framework robuste et développé activement.
+Akeneo is developed in Symfony 2 and is based on Oro Platform, a robust and actively developed framework.
 
-Nous proposons du développement custom sur le PIM Akeneo.
-
+We offer custom development on the Akeneo PIM.
 <div class="title-block ">
     <h2 class="title-big">
-        Modules Akeneo
+        Akeneo modules
     </h2>
 </div>
-L'entreprise Akeneo propose des modules payants en plus de leur solution opensource.
- 
-Par exemple :
+Akeneo offers pay modules in addition to their open source solution.
+ 
+For example :
 
-* De quoi gèrer les produits configurables (avec variations)
-* Connexion LDAP
+* What to handle configurable products (with variations)
+* LDAP connection
 * ElasticSearch
 
-Nous pouvons configurer ces modules.
+We can configure these modules.
 
 <div class="title-block ">
     <h2 class="title-big">
-        Développement sur mesure
+        Custom development
     </h2>
 </div>
-Nous proposons également du développement custom. Vous souhaitez faire un import différentiel, gérer d'autres entités que les produits/catégories ?
 
-Créer un adaptateur Magento performant, résoudre les problèmes de votre connecteur ?
+We also offer custom development. Do you want to make a differential import, manage other entities than products / categories?
 
-Gérer la suppression des produits ?
+Create a powerful Magento adapter, solve the problems of your connector?
 
-Gérer les images produits depuis Akeneo ?
+Manage the removal of products?
 
-Pouvoir configurer les catégories depuis Akeneo (position, suppression, ordre des produits).
+Manage images produced from Akeneo?
 
-Pas de soucis, nos développeurs Akeneo ont l'habitude de ce genre de demandes, n'hésitez pas à nous contacter pour en savoir plus.
+Can configure categories from Akeneo (position, delete, order of products).
 
-![Logo Akeneo](/images/developpement-akeneo/logo-akeneo.png)
+No worries, our developers Akeneo are used to this kind of requests, do not hesitate to contact us to know more.
+
+![Akeneo Logo](/images/developpement-akeneo/logo-akeneo.png)
