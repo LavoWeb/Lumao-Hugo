@@ -24,6 +24,7 @@ module.exports = {
           600: '#3e3e3e',
           100: '#f5f5f5'
         },
+        spiriit: '#3960ff',
       },
       minWidth: {
         '350': '350px'
