@@ -22,8 +22,8 @@ Le site lumao.eu est hébergé par la société OVH, 2 rue Kellermann – 59100 
 
 ### Nous contacter
 
-Par téléphone : 04 58 10 14 18
-Par email : aurelien@lumao.eu
+Par téléphone : 04 67 40 04 00
+Par email : contact@lumao.eu
 
 ### CNIL
 
