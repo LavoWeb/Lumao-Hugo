@@ -7,6 +7,7 @@ aliases = [
     "/cgs/"
 ]
 private = true
+robots = "noindex"
 +++
 **Date de dernière mise à jour : 08/03/2018**
 
