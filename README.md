@@ -13,3 +13,12 @@ docker-compose run jekyll jekyll build
 ```
 hugo server --buildDrafts 
 ```
+
+# WSL
+
+```
+npm install 
+hugo server
+```
+
+Là on peut check sur localhost nos modifs de contenu.
