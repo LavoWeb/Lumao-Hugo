@@ -6,7 +6,7 @@ description = "Vous cherchez un expert Magento disponible qui connait vos probl�
 draft = false
 
 
-intro = "Nous sommes une équipe de développeurs et d'intégrateurs spécialisés sur le CMS Magento, nous sommes d'ailleurs un partenaire certifié. Si vous êtes à la recherche d'une équipe d'experts et non pas d'un commercial, vous êtes au bon endroit."
+intro = "Nous sommes une équipe de développeurs et d'intégrateurs spécialisés sur le CMS Magento, nous sommes d'ailleurs un partenaire certifié. Si vous êtes à la recherche d'une équipe d'experts, vous êtes au bon endroit."
 
 [[love]]
     index = 1
