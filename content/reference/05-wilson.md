@@ -1,8 +1,8 @@
 +++
-date = "2016-12-24T12:50:52+01:00"
+date = "2025-06-27T12:50:52+01:00"
 title = "Wilson"
 image = "wilson.svg"
-link_url = "https://www.wilson.com/en-us"
+link_url = ""
 tags = ["dev"]
 slug = "wilson"
 +++

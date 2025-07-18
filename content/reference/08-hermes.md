@@ -1,8 +1,8 @@
 +++
-date = "2016-12-24T12:50:52+01:00"
+date = "2025-06-30T12:50:52+01:00"
 title = "Hermès"
 image = "hermes.png"
-link_url = "https://www.hermes.com/fr/fr/"
+link_url = ""
 tags = ["dev"]
 slug = "hermes"
 +++
