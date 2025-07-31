@@ -8,6 +8,16 @@ draft = false
 
 Le web est en évolution permanente. De nouvelles fonctionnalités et extensions sont progressivement disponibles pour enrichir les sites internet ; et à leurs côtés naissent aussi de nouvelles failles de sécurité et des sources potentielles de bugs. Autant dire que votre site e-commerce peut bénéficier de pistes d’amélioration significatives et souffrir de problèmes techniques graves. Ce qui est préjudiciable, surtout pour un site e-commerce. C’est pourquoi la maintenance de votre site marchand sur le long terme doit être au cœur de vos préoccupations, que vous vous en occupiez vous-même en interne ou que vous déléguiez cette mission à un prestataire externe tel que Lumao, agence experte en sites e-commerce et de la plateforme Magento. Open source, celle-ci demande de l’attention au quotidien. Prenez soin de votre site de vente en ligne et assurez sa pérennité avec un contrat de maintenance.
 
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    🧭 Vous cherchez à aller plus loin qu’une maintenance corrective ?<br>
+    👉 Découvrez notre approche d’audit global et <strong>TMA orientée résultats</strong>, pensée pour stabiliser, accélérer et rentabiliser votre Magento sans tout refaire.
+  </p>
+  <a href="/ecommerce/cms/maintenance-magento-performance/" class="btn btn-primary mt-2 !text-white">
+    Découvrir l’offre
+  </a>
+</div>
+
 ## La maintenance d’un site e-commerce : en quoi cela consiste ?
 
 Généralement, on distingue trois types d’actions de maintenance, que ce soit pour un site vitrine ou un site e-commerce :
@@ -33,6 +43,15 @@ Souscrire un contrat de maintenance représente donc de nombreux avantages :
 
 Agence spécialisée en créations de sites internet et de [sites e-commerce Magento](/ecommerce/cms/magento/), Lumao vous propose des contrats de maintenance et d’assistance sur mesure. Nous intervenons rapidement pour toutes vos urgences. Profitez de la réactivité et de l’expertise technique de nos équipes.
 
+<div class="bg-primary/10 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    👉 Et si vous cherchez un accompagnement plus stratégique, notre méthode TMA orientée performance vous aide à faire les bons choix et à améliorer les résultats de votre boutique.
+  </p>
+  <a href="/ecommerce/cms/maintenance-magento-performance/" class="btn btn-primary mt-2 !text-white inline-block">
+    Voir notre offre TMA orientée performance
+  </a>
+</div>
+
 ## Que proposez-vous ?
 
 Notre offre de Tierce Maintenance Applicative (TMA) comporte plusieurs points :
@@ -52,3 +71,13 @@ Notre offre de Tierce Maintenance Applicative (TMA) comporte plusieurs points :
 ## Le mode maintenance Magento
 
 Un site en travaux, c’est-à-dire en phase de construction, d’amélioration ou de correction, doit rester visible, même si celui-ci n’est plus en mesure d’assurer son objectif premier. L’internaute doit pouvoir se rendre à l’adresse du site et être informé de ce qu’il s’y passe. C’est ce que le mode maintenance Magento et de nombreuses extensions permettent. Ces outils prévoient en effet la création et la mise en ligne d’une page personnalisée : logo, compte à rebours, texte, informations pratiques, notification email… sont facilement paramétrables et assurent la transition. Si vous le souhaitez, nous vous aidons à configurer votre page de maintenance Magento.
+
+<div class="bg-primary/10 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    Vous hésitez entre corriger l’existant ou enclencher une vraie dynamique d’optimisation ?<br>
+    👉 Parlez-en avec nous, on peut commencer par un audit simple pour y voir clair.
+  </p>
+  <a href="/ecommerce/cms/maintenance-magento-performance/" class="btn btn-primary mt-2 !text-white inline-block">
+    Prendre contact
+  </a>
+</div>
