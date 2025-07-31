@@ -544,7 +544,7 @@ image = "/images/cms/single/hero.jpg"
 				<div class="grid self-start grid-cols-1 text-sm leading-normal xl:leading-relaxed lg:text-base">
 					<p class="mb-4 font-bold 2xl:text-lg">Faites évoluer votre boutique</p>
 					<p class="text-gray-500 2xl:leading-loose">Un site e-commerce démodé, aux fonctionnalités obsolètes, peu performant… aura peu de chance de transformer. Pour lui redonner de la puissance et petit coup de jeune, une refonte Magento s’avère utile. Cette opération peut concerner différents éléments du site : son design, ses contenus, ses fonctionnalités, son hébergement… voire sa plateforme e-commerce. La refonte peut ainsi consister en une migration vers une nouvelle version. Ensemble, nous définissons dans quelle mesure votre site doit être refondu et mettons en œuvre les solutions pour qu’il reste séduisant, moderne, performant et compétitif.</p>
-					<a href="/ecommerce/cms/magento/maintenance/" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
+					<a href="/ecommerce/cms/maintenance-magento-performance" class="relative inline-flex mt-6 text-sm font-bold max-w-max lg:text-lg text-primary group font-accent">
 						<span>En savoir plus</span>
 						<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-4 ml-2">
 							<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />

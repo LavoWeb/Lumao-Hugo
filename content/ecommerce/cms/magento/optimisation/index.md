@@ -13,6 +13,16 @@ aident à identifier ces freins à la conversion qui pénalisent votre site. Ils
 solutions à mettre en place, toujours avec dans un souci de rentabilité et dans le respect de votre
 budget.
 
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    <strong>Confiez l’analyse de la performance de votre Magento à des pros</strong> 
+    <br>Ou découvrez quelques pistes concrètes et actionnables dans cet article pour commencer dès maintenant.
+  </p>
+  <a href="/ecommerce/cms/maintenance-magento-performance" class="btn btn-primary mt-2 inline-block">
+    Discuter avec un expert
+  </a>
+</div>
+
 ## Identifier les problèmes
 
 Avant d’optimiser un site Magento 2, il est indispensable de faire un audit, afin d’identifier les points

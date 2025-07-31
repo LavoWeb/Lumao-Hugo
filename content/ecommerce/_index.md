@@ -28,6 +28,19 @@ Un CMS est un logiciel qui permet de créer et de gérer des contenus en ligne. 
 
 Votre site e-commerce est-il réellement performant ? Pour répondre à cette question cruciale, il est un certain nombre de données à prendre en compte. Mais lesquelles ? Et comment les collecter et les analyser ? Si votre boutique en ligne ne remplit pas les objectifs que vous vous êtes fixés, il est toujours possible d’optimiser certains de ses aspects après avoir, bien sûr, clairement identifié les problèmes. Nous vous aidons à [mesurer les performances e-commerce](/ecommerce/performance/) de votre boutique et à optimiser vos résultats.
 
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+   Et si vos données devenaient un vrai levier de performance ?
+<br> <br> Notre offre de <strong>maintenance Magento orientée performance </strong> vous aide à : 
+<br>↬ Analyser votre trafic et vos points de friction  
+<br>↬ Définir les quick wins techniques, UX et CRO  
+<br>↬ Prioriser les actions à impact business
+  </p>
+  <a href="/ecommerce/cms/maintenance-magento-performance" class="btn btn-primary mt-2 inline-block">
+    Et si on regardait ça ensemble ?
+  </a>
+</div>
+
 ## La sécurité de votre site e-commerce
 
 Les sites e-commerce peuvent se montrer vulnérables aux attaques et autres intrusions. La [sécurité](/ecommerce/securite/) est donc un enjeu de taille pour votre activité en ligne. Elle ne doit pas être négligée, sous peine de pénaliser votre entreprise ainsi que vos clients. Nos experts mettent en place des solutions de protection efficaces pour votre boutique. Grâce à une veille technologique pointue, ils connaissent les failles et le type d’attaques dont vous pourriez être victime. Ils vous donnent également des conseils et les bonnes pratiques pour éviter qu’un problème de sécurité n’apparaisse.
@@ -51,6 +64,17 @@ Le choix de votre solution d’hébergement informatique est crucial pour la per
 ## Confiez la maintenance de votre boutique à des experts
 
 C’est un aspect souvent méconnu, voire négligé, par les e-commerçants. Pourtant, [la maintenance](/ecommerce/maintenance/) d’un site e-commerce est fondamentale. Elle consiste à prévenir les problèmes qui, avec le temps, apparaissent naturellement. Elle comprend aussi la correction des bugs et autres dysfonctionnements qui, s’ils persistent, mettent à mal votre activité. Enfin, la maintenance inclut aussi les évolutions de votre site, nécessaires pour qu’il ne devienne pas totalement obsolète et pour qu’il reste en adéquation avec votre entreprise et l’air du temps.
+
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+   Et si vous faisiez de la maintenance un levier de performance ?
+<br> <br> Découvrez notre offre de <strong>maintenance Magento orientée résultats</strong> :  
+un audit global, un plan d’action priorisé et des optimisations concrètes (UX, vitesse, technique, conversion), pour <strong>rentabiliser votre plateforme sans tout refaire</strong>   .
+  </p>
+  <a href="/ecommerce/cms/maintenance-magento-performance" class="btn btn-primary mt-2 inline-block">
+    Voir l'offre TMA orientée performance
+  </a>
+</div>
 
 ## Performances techniques : audit et optimisation
 

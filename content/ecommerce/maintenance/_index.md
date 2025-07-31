@@ -23,6 +23,18 @@ La maintenance d’un site vitrine ou d’un site e-commerce est donc indispensa
 
 Spécialistes de la solution Magento et certifiés par elle, nos experts Lumao sont vos partenaires privilégiés pour la maintenance de votre site e-commerce. Profitez de la réactivité de nos équipes, de leur expertise et de leurs conseils pour garantir la sécurité et le fonctionnement de votre site, dans une relation de totale confiance et transparence. En faisant appel à des professionnels, vous gagnez en sérénité, en temps et en énergie.
 
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+   Et si vous alliez plus loin que la maintenance classique ?
+Découvrez notre <strong>offre de maintenance Magento orientée performance </strong>  :  
+un accompagnement complet qui combine audit technique, UX/CRO, SEO et priorisation d'actions qui apporte une réelle valeur € à votre e-commerce.  
+<br> <br>L’objectif : <strong> rentabiliser votre plateforme sans tout refaire </strong> .
+  </p>
+  <a href="/ecommerce/cms/maintenance-magento-performance" class="btn btn-primary mt-2 inline-block">
+    Découvrir l'offre
+  </a>
+</div>
+
 ## Le coût de la maintenance d’un site marchand
 
 Le prix de la maintenance dépend de multiples critères. Le nombre d’heures à consacrer à l’entretien du site de vente en ligne dépend de sa taille, du nombre de produits au catalogue, de la complexité technique, du nombre de fonctionnalités, du type d’hébergement, de la qualité du serveur, etc. C’est pourquoi, après un audit technique de votre site et de son hébergement et après l’analyse de vos besoins et objectifs, nous vous proposons un devis entièrement personnalisé. Vous saurez ainsi quel budget consacrer à la maintenance de votre site e-commerce. Anticipez ces coûts dès les débuts de votre projet web. Nous vous conseillons et vous accompagnons dans la création de votre site e-commerce et vous suivons sur le long terme pour en garantir les performances.

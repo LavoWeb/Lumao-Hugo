@@ -7,6 +7,17 @@ draft = false
 +++
 
 Votre site marchand génère-t-il des ventes ? Celles-ci sont-elles suffisantes pour affirmer que votre activité est rentable ? Pour répondre à ces questions fondamentales, il est nécessaire de mesurer et d’analyser les performances enregistrées par le [site de vente en ligne](/ecommerce/). Pour réaliser cette étude, de nombreux critères doivent être regardés à la loupe. Nous vous aidons à définir les indicateurs clés à étudier et à tirer des conclusions à partir des données collectées. Car l’objectif est toujours le même : vendre plus et mieux.
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    Et si vous souhaitez aller plus loin ? 
+    <br> Découvrez notre offre de maintenance Magento orientée performance : une approche structurée qui livre un plan d’action clair, basé sur l’analyse de vos données réelles et orienté résultats concrets : vitesse, UX, conversion.
+    <br>
+    <br> <strong> Le but ? </strong>  Identifier ce qui freine la performance aujourd’hui… et activer les bons leviers, sans tout refaire.
+  </p>
+  <a href="/ecommerce/cms/maintenance-magento-performance" class="btn btn-primary mt-2 inline-block">
+    Découvrir l'offre
+  </a>
+</div>
 
 ## Les indicateurs clés de performance
 

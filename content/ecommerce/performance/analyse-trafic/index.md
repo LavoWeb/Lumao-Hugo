@@ -6,7 +6,17 @@ description = "La mesure de l’audience et la connaissance du trafic de votre s
 draft = false
 +++
 
-Combien de visites enregistre chaque jour votre site ? D’où viennent les internautes ? Quel est leur profil ? Combien de temps restent-ils sur votre boutique ? Autant de questions auxquelles peut répondre l’analyse du trafic et qui permettent de [mesurer la performance e-commerce d’un site](/ecommerce/performance/). Mais comment procéder à cette étude d’audience et comment exploiter les résultats ? Nous vous proposons d’en savoir plus. Et si vous souhaitez que nous procédions à l’audit de votre site e-commerce, contactez-nous : nous vous proposerons un devis personnalisé.
+Combien de visites enregistre chaque jour votre site ? D’où viennent les internautes ? Quel est leur profil ? Combien de temps restent-ils sur votre boutique ? Autant de questions auxquelles peut répondre l’analyse du trafic et qui permettent de [mesurer la performance e-commerce d’un site](/ecommerce/performance/). Mais comment procéder à cette étude d’audience et comment exploiter les résultats ? Nous vous proposons d’en savoir plus. 
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    Et si vous souhaitez que nous procédions à l’audit de votre site e‑commerce, contactez‑nous.
+    <br> Nous étudierons ensemble les axes essentiels d’amélioration - du trafic à la conversion, en passant par la navigation, l’UX, les performances techniques et le SEO, jusqu’au tunnel d’achat. 
+    Nous vous remettrons <strong>un plan d’action clair<strong>, priorisant les actions pour un impact rapide et mesurable.
+  </p>
+  <a href="/ecommerce/cms/maintenance-magento-performance" class="btn btn-primary mt-2 inline-block">
+    Discuter avec un expert
+  </a>
+</div>
 
 ## Le trafic sur un site e-commerce, c’est quoi exactement ?
 
