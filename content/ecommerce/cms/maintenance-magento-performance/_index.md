@@ -145,12 +145,11 @@ image = "/images/cms/single/hero_tma.jpg"
 
 <section class="px-8 mb-8 text-center lg:mb-24 lg:px-0 md:mt-16">
 	<div class="flex flex-col items-center px-8 mx-auto md:container">
-		<h2 class="px-10 xl-title">Vous voulez faire le point sur votre Magento ? </h2>
-		<span class="md:mt-8 lg:mb-5"></span>
-		<p>
-		On échange ensemble sur vos enjeux, sans engagement.
-		<br>📩 Remplissez le formulaire, on vous rappelle rapidement.
+		<h2 class="px-10 xl-title mt-8 md:mt-0">Vous voulez faire le point sur votre Magento ? </h2>
+		<p class="mt-4">
+  		On échange ensemble sur vos enjeux, sans engagement.
+  		<br>📩 Remplissez le formulaire, on vous rappelle rapidement.
 		</p>
-		<div class="mt-8">
+		<div class="mt-4">
 		</div>
 </section>
