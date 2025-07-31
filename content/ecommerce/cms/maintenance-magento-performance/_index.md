@@ -119,7 +119,7 @@ image = "/images/cms/single/hero_tma.jpg"
 			<ul class="text-sm lg:text-base leading-relaxed lg:leading-loose lg:opacity-100 xl:mr-8 list-disc list-inside">
   			<li><strong>+20 ans</strong> d’expertise e-commerce, Magento et Adobe Commerce</li>
 			<br>
-  			<li>Une équipe basée en <strong>France</strong>, impliquée à chaque étape du projet : Chef de projet, dev back, dev front, QA… tous identifiés et disponibles</li>
+  			<li>Une équipe basée en <strong>France</strong>, impliquée à chaque étape du projet : Consultant ecommerce, chef de projet, dev back, dev front, QA… tous identifiés et disponibles</li>
   			<br>
 			<li><strong>+100 projets</strong> menés pour des marques, distributeurs et réseaux spécialisés, avec des <strong>problématiques complexes et terrain</strong> : catalogues techniques, ERP, multi-boutiques, tunnels de conversion exigeants</li>
 			</ul>
