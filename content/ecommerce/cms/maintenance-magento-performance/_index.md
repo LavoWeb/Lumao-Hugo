@@ -18,7 +18,7 @@ image = "/images/cms/single/hero_tma.jpg"
 
 <section class="px-8 py-12 shadow-theme md:shadow-none">
 	<p class="block mb-20 font-bold text-center md:hidden sm:text-lg">
-		Découvrez notre approche claire, orientée résultats, pour stabiliser, accélérer et rentabiliser votre plateforme e-commerce.
+		Notre maintenance Magento ne se limite pas au correctif et à l’évolutif. Elle vise aussi la performance. Découvrez notre approche orientée résultats, pour stabiliser, accélérer et rentabiliser votre plateforme e-commerce.
 	</p>
 	<p class="mx-auto text-center md:w-1/2 sm:text-lg mt-8 mb-16">
 		Vous êtes dirigeant ou responsable digital dans une PME ou ETI avec une activité e-commerce B2B, B2C ou B2B2C.
