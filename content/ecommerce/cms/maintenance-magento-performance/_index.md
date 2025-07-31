@@ -30,8 +30,8 @@ image = "/images/cms/single/hero_tma.jpg"
 	</p>
 </section>
 
-<!-- Section test -->
-<div class="flex flex-col justify-end mx-auto mt-16 mb-16 lg:mt-0 lg:flex-row md:container lg:mb-24 xl:mb-32">
+<!-- Section Objectifs -->
+<div class="flex flex-col justify-end mx-auto px-4 mt-16 mb-16 lg:mt-0 lg:flex-row md:container lg:mb-24 xl:mb-32">
 		<div class="relative flex flex-col w-full text-sm lg:w-1/2 lg:px-20 lg:text-base">
 			<div class="mb-4 lg:mb-8">
 			</div>
@@ -45,13 +45,19 @@ image = "/images/cms/single/hero_tma.jpg"
 					</div>
 				</div>
 			</div>
-			<p class="leading-8 text-gray-0">Vous n’avez pas besoin d’une refonte complète pour avancer. 
-			<br>Ce qu’il vous faut, c’est :
-			<li>Savoir exactement où agir pour améliorer la vitesse, l’UX et la conversion
-			<li>Arrêter de dépenser dans du correctif sans impact
-			<li>Être accompagné par une équipe qui pense comme vous : en termes de rentabilité, pas de tickets
-			<br><br>
-			👉 C’est ce qu’on vous propose avec notre approche TMA Magento orientée résultats.
+			<p class="leading-normal text-gray-0 mb-2">
+  			Vous n’avez pas besoin d’une refonte complète pour avancer.
+			</p>
+			<p class="leading-8 text-gray-0 mb-2">
+  			Ce qu’il vous faut, c’est :
+			</p>
+			<ul class="leading-8 text-gray-0 list-disc pl-6 mb-4">
+  				<li>Savoir exactement où agir pour améliorer la vitesse, l’UX et la conversion</li>
+  				<li>Arrêter de dépenser dans du correctif sans impact</li>
+  				<li>Être accompagné par une équipe qui pense comme vous : en termes de rentabilité, pas de tickets</li>
+			</ul>
+			<p class="leading-8 text-gray-0">
+  			👉 C’est ce qu’on vous propose avec notre approche TMA Magento orientée résultats.
 			</p>
 			</div>
 		</div>
@@ -60,22 +66,22 @@ image = "/images/cms/single/hero_tma.jpg"
 <!-- Section 6 -->
 <section class="px-8 mb-8 text-center lg:mb-24 lg:px-0 md:mt-16">
 	<div class="flex flex-col items-center px-8 mx-auto md:container">
-		<h2 class="px-10 xl-title">Une méthode en 3 temps, pour ceux qui veulent améliorer l’existant sans tout refaire</h2>
+		<h2 class="px-4 sm:px-6 xl-title text-center">Une méthode en 3 temps, pour ceux qui veulent améliorer l’existant sans tout refaire</h2>
 		<span class="md:mt-8 lg:mb-5"></span>
-		<p>
+		<p class="pt-6 md:pt-0">
 		Pas besoin de réinventer toute la machine pour relancer la dynamique.
 		<br>Avec notre méthode, on identifie ce qui mérite d’être optimisé, ce qui peut être accéléré, et ce qui doit être stabilisé.
 		<br>Le tout en 3 étapes claires.
 		</p>
 	</div>
 	<div class="max-w-screen-xl mx-auto">
-		<div class="grid-cols-3 gap-4 xl:grid lg:gap-8 lg:mx-8 xl:gap-12">
+		<div class="grid-cols-3 gap-4 xl:grid lg:gap-8 lg:mx-8 xl:gap-12 pt-6 md:pt-0">
 			<!-- Block 01 -->
 			<div class="overflow-hidden rounded-3xl">
 				<div class="flex flex-col px-8 font-bold md:pt-16 xl:px-12">
-					<img alt="etape1_tma_lumao" src="/images/cms/single/etape1_tma.svg" class="h-24 mx-auto mb-8" draggable="false"/>
-					<h3 class="mb-10 text-3xl font-accent">Un audit global pour repartir sur des bases saines</h3>
-					<span class="mx-auto my-8 divider"></span>
+					<img alt="etape1_tma_lumao" src="/images/cms/single/etape1_tma.svg" class="h-24 mx-auto mb-2 md:mb-8" draggable="false"/>
+					<h3 class="mb-4 text-3xl font-accent">Un audit global pour repartir sur des bases saines</h3>
+					<span class="mx-auto my-4 md:my-8 divider"></span>
 				</div>
 				<div class="flex flex-col px-4 text-sm leading-7 text-gray-0 xl:text-base xl:px-12">
 					Performance technique, UX, gestion interne, conversion : on fait le point sur ce qui freine votre site… et ce qui peut l’améliorer.
@@ -83,21 +89,21 @@ image = "/images/cms/single/hero_tma.jpg"
 			</div>
 			<!-- Block 02 -->
 			<div class="overflow-hidden rounded-3xl">
-				<div class="flex flex-col px-8 font-bold md:pt-16 xl:px-12">
-					<img alt="etape2_tma_lumao" src="/images/cms/single/etape2_tma.svg" class="h-24 mx-auto mb-8" draggable="false"/>
-					<h3 class="mb-10 text-3xl font-accent">Un plan d’action clair, appliqué via une TMA orientée résultats</h3>
-					<span class="mx-auto my-8 divider"></span>
+				<div class="flex flex-col px-8 font-bold md:pt-16 xl:px-12 pt-6 md:pt-0">
+					<img alt="etape2_tma_lumao" src="/images/cms/single/etape2_tma.svg" class="h-24 mx-auto mb-2 md:mb-8" draggable="false"/>
+					<h3 class="mb-4 text-3xl font-accent">Un plan d’action clair, appliqué via une TMA orientée résultats</h3>
+					<span class="mx-auto my-4 md:my-8 divider"></span>
 				</div>
-				<div class="flex flex-col px-4 text-sm leading-7 text-gray-0 xl:text-base xl:px-12">
+				<div class="flex flex-col px-4 text-sm leading-7 text-gray-0 xl:text-base xl:px-12 pt-6 md:pt-0">
 					Correctif, préventif, évolutif : on stabilise la plateforme et on active les bons leviers.<br> <br> Le tout dans un modèle plus économique que les maintenances classiques.
 				</div>
 			</div>			
 			<!-- Block 03 -->
 			<div class="overflow-hidden rounded-3xl">
-				<div class="flex flex-col px-8 font-bold md:pt-16 xl:px-12">
-					<img alt="etape3_tma_lumao" src="/images/cms/single/etape3_tma.svg" class="h-24 mx-auto mb-8" draggable="false"/>
-					<h3 class="mb-10 text-3xl font-accent">Un co-pilotage e-commerce, comme si c’était notre propre boutique</h3>
-					<span class="mx-auto my-8 divider"></span>
+				<div class="flex flex-col px-8 font-bold md:pt-16 xl:px-12 pt-6 md:pt-0">
+					<img alt="etape3_tma_lumao" src="/images/cms/single/etape3_tma.svg" class="h-24 mx-auto mb-2 md:mb-8" draggable="false"/>
+					<h3 class="mb-4 text-3xl font-accent">Un co-pilotage e-commerce, comme si c’était notre propre boutique</h3>
+					<span class="mx-auto my-4 md:my-8 divider"></span>
 				</div>
 				<div class="flex flex-col px-4 text-sm leading-7 text-gray-0 xl:text-base xl:px-12">
 					On ne se contente pas de maintenir votre Magento. <br><br> On co-pilote régulièrement la performance avec vous - stabilité, vitesse, conversion - comme une extension de votre équipe.
