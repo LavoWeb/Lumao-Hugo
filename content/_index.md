@@ -24,7 +24,7 @@ intro = "Nous sommes une équipe de développeurs et d'intégrateurs spécialis�
     index = 3
     icon = 'tma.svg'
     title = "TMA"
-    text = "Forfait mensualisé de maintenance"
+    text = "Maintenance de votre plateforme orientée valeur"
     url = "/ecommerce/cms/maintenance-magento-performance"
 
 [[service]]
