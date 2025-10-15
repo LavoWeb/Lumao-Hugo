@@ -21,7 +21,7 @@ Cette exigence nous permet d’intervenir sur des **environnements complexes**, 
 
 ## Une équipe intégrée au groupe Spiriit
 
-Depuis juillet 2023, **Lumao a rejoint le groupe [Spiriit](https://www.spiriit.com/?utm_source=lumao&utm_medium=lien&utm_campaign=redirection_lumao)**, une agence e-commerce et digitale de 65 personnes.
+Depuis juillet 2023, **Lumao a rejoint le groupe [Spiriit](https://www.spiriit.com/?utm_source=lumao&utm_medium=lien&utm_campaign=redirection_lumao)**, une agence e-commerce et digitale de 50 personnes.
 <a href="https://www.spiriit.com/?utm_source=lumao&utm_medium=lien&utm_campaign=redirection_lumao" target="_blank" rel="noopener">
   <img class="" src="/images/logospiriit.png" alt="Logo Spiriit" width="400px" />
 </a>
