@@ -13,6 +13,7 @@ subtitle = "TMA Magento"
 intro = "Notre maintenance Magento ne se limite pas au correctif et à l’évolutif. Elle vise aussi la performance. Découvrez notre approche orientée résultats, pour stabiliser, accélérer et rentabiliser votre plateforme e-commerce."
 custom = true
 image = "/images/cms/single/hero_tma.jpg"
+canonical = "https://www.spiriit.com/magento/maintenance-magento-performance/"
 +++
 
 
