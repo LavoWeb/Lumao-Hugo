@@ -4,6 +4,7 @@ title = "Moteur de recherche interne intelligent : vendez mieux et plus"
 h1 = "Moteur de recherche interne intelligent : facilitez les recherches de vos clients"
 description = "Découvrez comment la mise en place d’un moteur de recherche intelligent sur votre boutique facilite la navigation de vos clients et accélèrent vos ventes."
 draft = false
+canonical = "https://www.spiriit.com/magento/recherche-ecommerce-ia/"
 +++
 
 Afin d’améliorer l’expérience utilisateur (UX) et de faciliter l’acte d’achat ainsi que la navigation des internautes, il est nécessaire pour un site e-commerce d’avoir un moteur de recherche interne. Ce que permet le CMS e-commerce [Magento](/ecommerce/cms/magento/). Nous allons voir qu’il est possible de le paramétrer pour en faire un véritable moteur de recherche intelligent.
