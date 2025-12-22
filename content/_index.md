@@ -4,8 +4,6 @@ title = "Développeur Magento"
 h1 = "Développement Magento"
 description = "Vous cherchez un expert Magento disponible qui connait vos problématiques ? Découvrez l'Expertise et les Compétences Lumao"
 draft = false
-canonical = "https://www.spiriit.com/magento/"
-
 
 intro = "Nous sommes une équipe de développeurs et d'intégrateurs spécialisés sur le CMS Magento, nous sommes d'ailleurs un partenaire certifié. Si vous êtes à la recherche d'une équipe d'experts, vous êtes au bon endroit."
 
@@ -70,4 +68,6 @@ intro = "Nous sommes une équipe de développeurs et d'intégrateurs spécialis�
 [[beautiful]]
     index = 3
     img = 'home-beautiful-sites3.jpg'
+
+canonical = "https://www.spiriit.com/magento/"
 +++
