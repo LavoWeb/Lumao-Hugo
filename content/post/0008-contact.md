@@ -5,6 +5,7 @@ h1 = "Contact Lumao"
 description = "Intéressé pour en savoir plus sur notre expertise certifiée par Magento ? N'hésitez pas à nous parler de votre projet. Nous vous répondrons très vite."
 draft = false
 slug = "contact"
+canonical = "https://www.spiriit.com/magento/contact/"
 
 subtitle = "Say Hello 👋"
 contact = true
