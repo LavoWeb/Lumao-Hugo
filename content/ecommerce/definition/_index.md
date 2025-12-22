@@ -4,6 +4,7 @@ title = "Définitions du e-commerce et de la vente en ligne de produits"
 h1 = "Les définitions du e-commerce à connaitre"
 description = "Le commerce électronique compte de nombreuses expressions, pas toujours faciles à saisir. Pour tout savoir de la vente en ligne, consultez nos définitions."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/definition-ecommerce/"
 +++
 
 Le e-commerce regroupe de nombreuses techniques marketing et commerciales appliquées au web. Cette forme de vente à distance s’adapte en effet toujours plus aux besoins et aux habitudes de consommation des internautes. Pour être efficaces et pour voir leur taux de conversion augmenter, les [sites de vente en ligne](/ecommerce/) multiplient les outils et les dispositifs susceptibles de séduire les visiteurs et de les fidéliser. Nous vous proposons d’en découvrir certains à travers ces quelques définitions. 

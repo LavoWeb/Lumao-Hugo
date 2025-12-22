@@ -4,6 +4,7 @@ title = "La Maintenance de votre Site Magento par des Experts"
 h1 = "Maintenance Magento : prenez soin de votre site e-commerce avec un contrat TMA"
 description = "Assurez la pérennité de votre site e-commerce Magento avec une agence web experte de la solution Magento. Profitez de contrats de maintenance sur mesure."
 draft = false
+canonical = "https://www.spiriit.com/magento/maintenance-magento-performance/"
 +++
 
 Le web est en évolution permanente. De nouvelles fonctionnalités et extensions sont progressivement disponibles pour enrichir les sites internet ; et à leurs côtés naissent aussi de nouvelles failles de sécurité et des sources potentielles de bugs. Autant dire que votre site e-commerce peut bénéficier de pistes d’amélioration significatives et souffrir de problèmes techniques graves. Ce qui est préjudiciable, surtout pour un site e-commerce. C’est pourquoi la maintenance de votre site marchand sur le long terme doit être au cœur de vos préoccupations, que vous vous en occupiez vous-même en interne ou que vous déléguiez cette mission à un prestataire externe tel que Lumao, agence experte en sites e-commerce et de la plateforme Magento. Open source, celle-ci demande de l’attention au quotidien. Prenez soin de votre site de vente en ligne et assurez sa pérennité avec un contrat de maintenance.

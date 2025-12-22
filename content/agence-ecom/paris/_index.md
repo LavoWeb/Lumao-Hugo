@@ -13,6 +13,8 @@ draft = false
 [[links]]
     text = "Consultant Magento Paris"
     url = "ecommerce/cms/magento/consultant/paris/"
+
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-paris/"
 +++
 
 Pour vendre vos produits ou proposer vos services sur internet, faites appel à des experts du e-commerce. Seuls des professionnels rompus aux métiers du web et au marketing digital seront en mesure de vous accompagner dans votre projet. Notre [agence e-commerce](/agence-ecom/) se charge de développer votre site, mais aussi de l’optimiser, de le faire évoluer, de le refondre, d’assurer sa migration, de l’héberger… Rien n’est laissé au hasard. Ainsi, votre activité en ligne est propulsée sur la voie du succès.

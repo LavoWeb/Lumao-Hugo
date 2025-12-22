@@ -5,6 +5,7 @@ h1 = "Recrutement développeur Magento (H/F)"
 description = "L'agence Lumao recrute un / une Développeur Magento 1/2. Consultez vite nos offres d'emploi. Nous recrutons des spécialistes en développement chaque année."
 draft = false
 slug = "job-magento"
+canonical = "https://www.spiriit.com/jobs/"
 +++
 Avant toute chose, l'offre est pour plusieurs profils, c'est normal de ne pas avoir toutes les compétences !
 

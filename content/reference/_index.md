@@ -4,5 +4,6 @@ title = "Références Agence e-commerce Magento LUMAO : Exemples"
 h1 = "Nos références"
 description = "Découvrez les références e-commerce de LUMAO, de la création graphique, à la refonte ou l'intégration complète de sites e-commerces."
 draft = false
+canonical = "https://www.spiriit.com/magento/references/"
 +++
 Voici quelques références, nous avons un contrat de confidentialité avec la plupart de nos clients.

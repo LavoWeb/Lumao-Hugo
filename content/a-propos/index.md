@@ -4,6 +4,7 @@ title = "Qui sommes-nous ?"
 h1 = "Une équipe experte Magento au service des projets e-commerce les plus exigeants"
 description = "Envie d'en savoir plus sur LUMAO ? Une équipe de développeurs spécialisés sur le CMS Magento à votre service. Réponse rapide."
 draft = false
+canonical = "https://www.spiriit.com/magento/agence-magento/"
 +++
 
 ## Un positionnement clair depuis le premier jour

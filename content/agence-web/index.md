@@ -4,6 +4,7 @@ title = "Agence Web | Votre Communication sur le Web"
 h1 = "Lumao : agence web partenaire de votre réussite sur internet"
 description = "Confiez votre communication Web à notre agence pour une visibilité optimale et une image qui vous ressemble. Contact &amp; Renseignements ici !"
 draft = false
+canonical = "https://www.spiriit.com/magento/"
 +++
 
 La création de votre site web pourra être faite par nos équipes. Au sein de Lumao, nous développons

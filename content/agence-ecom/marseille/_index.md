@@ -13,6 +13,8 @@ draft = false
 [[links]]
     text = "Consultant Magento Marseille"
     url = "ecommerce/cms/magento/consultant/marseille/"
+
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-marseille/"
 +++
 
 <p>Notre mission : créer pour vous un site web clé sur mesure</p>

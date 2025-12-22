@@ -13,6 +13,7 @@ subtitle = "Magento"
 intro = "Lancé en 2008, Magento est un CMS e-commerce puissant, permettant de créer et de gérer les sites de vente en ligne les plus divers. Cette plateforme open source s’est d’abord imposée aux Etats-Unis, puis à travers le monde entier. Elle revendique plus de 240 000 sites."
 custom = true
 image = "/images/cms/single/hero.jpg"
+canonical = "https://www.spiriit.com/magento/ressources/comprendre-magento/"
 +++
 
 

@@ -13,6 +13,8 @@ draft = false
 [[links]]
     text = "Consultant Magento Lyon"
     url = "ecommerce/cms/magento/consultant/lyon/"
+
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-lyon/"
 +++
 
 A Lyon comme partout en France, notre agence web vous accompagne dans la réalisation de tous vos projets, de la création d’une boutique en ligne à la refonte d’un site internet, en passant par la définition de votre stratégie digitale, le référencement naturel, etc. Lumao est une [agence e-commerce](/agence-ecom/) animée par des experts qui vous proposent des solutions sur mesure, adaptées à vos besoins et à vos objectifs.

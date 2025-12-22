@@ -13,6 +13,8 @@ draft = false
 [[links]]
     text = "Consultant Magento Nantes"
     url = "ecommerce/cms/magento/consultant/nantes/"
+
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-nantes/"
 +++
 
 <p>Le réseau internet est aujourd’hui la base de l'immense majorité des échanges commerciaux mondiaux. Pour votre boutique en ligne comme pour les géants du e-commerce, la démarche est la même : acquérir l’autorité et la visibilité nécessaire.</p>

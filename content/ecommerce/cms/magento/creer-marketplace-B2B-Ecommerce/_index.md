@@ -4,6 +4,7 @@ title = "Comment créer une Marketplace B2B Ecommerce Magento 2 Adobe Commerce"
 h1 = "Comment créer une Marketplace B2B Ecommerce avec Magento 2 ?"
 description = "Vous cherchez à créer une marketplace ? Découvrez notre offre sous Magento / Adobe pour réaliser votre projet. Rendez-vous sur le Site Lumao"
 draft = false
+canonical = "https://www.spiriit.com/magento/magento-b2b/"
 +++
 Avec l’essor du e-commerce en France et à travers le monde, un autre type de plateforme s’est largement développé en parallèle aux boutiques en ligne traditionnelles. La marketplace est en effet, elle aussi dédiée au commerce en ligne, mais d’un nouveau genre. Ainsi, comment créer une marketplace B2B ecommerce avec [Magento 2](/ecommerce/cms/magento/) ?
 

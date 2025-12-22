@@ -4,6 +4,7 @@ title = "Mesurer les performances d’un site e-commerce"
 h1 = "Mesurer les performances d’un site e-commerce"
 description = "La performance d’un site e-commerce se mesure avant tout à sa capacité à vendre. Ensemble, mesurons et optimisons la performance de votre boutique en ligne"
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/kpi-performance-ecommerce/"
 +++
 
 Votre site marchand génère-t-il des ventes ? Celles-ci sont-elles suffisantes pour affirmer que votre activité est rentable ? Pour répondre à ces questions fondamentales, il est nécessaire de mesurer et d’analyser les performances enregistrées par le [site de vente en ligne](/ecommerce/). Pour réaliser cette étude, de nombreux critères doivent être regardés à la loupe. Nous vous aidons à définir les indicateurs clés à étudier et à tirer des conclusions à partir des données collectées. Car l’objectif est toujours le même : vendre plus et mieux.
