@@ -6,6 +6,11 @@
     <title>{{ .Title }}</title>
     <meta name="description" content="{{ .Description }}"/>
     <meta name="robots" content="{{ with .Params.robots }}{{ . }}{{ else }}{{ .Site.Params.robots }}{{ end }}">
+    {{ if .Params.canonical }}
+	<link rel="canonical" href="{{ .Params.canonical }}">
+    {{ else }}
+    <link rel="canonical" href="{{ replace .Permalink .Site.BaseURL .Site.Params.hrefurlFr }}">
+	{{ end }}
 
     <script src="/js/swiper-bundle.min.js" defer></script>
     <link rel="stylesheet" href="/css/swiper-bundle.min.css">
