@@ -4,6 +4,7 @@ title = "Demandware | CMS Commerce Cloud Salesforce"
 h1 = "Demandware / Commerce Cloud : un puissant CMS omnicanal"
 description = "Découvrez la plateforme web Commerce Cloud (ex-Demandware), le CMS proposé par le géant américain Salesforce aux acteurs du B2C et du B2B."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/demandware-ou-magento/"
 +++
 
 Entreprises et commerçants ont à leur disposition un large panel d’outils. Grâce à eux, ils ont la possibilité non seulement de commercialiser leurs produits et services, mais aussi de développer des actions marketing et commerciales, de gérer leurs stocks, de connaitre leurs clients, etc. Pour vendre en ligne, c’est d’un [CMS e-commerce](/ecommerce/cms/) qu’ils ont besoin. Et ces logiciels qui permettent de créer et de gérer une boutique en ligne sont très nombreux sur le marché. Difficile de s’y retrouver. Nous vous proposons ici de faire connaissance avec Demandware, un CMS qui fait désormais partie du portefeuille de produits proposé par le géant du CRM, Salesforce.

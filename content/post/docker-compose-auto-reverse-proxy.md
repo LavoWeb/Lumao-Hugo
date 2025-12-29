@@ -3,7 +3,7 @@ date = "2017-02-06T11:07:14+01:00"
 title = "Reverse proxy automatique pour Docker"
 description = "Comment réaliser un reverse proxy automatique pour Docker ? Découvrez la Réponse Détaillée avec Lumao, Agence Experte Magento"
 draft = false
-
+canonical = "https://www.spiriit.com/magento/ressources/docker-compose-reverse-proxy-automatique/"
 +++
 Dans cet article, on va voir comment faire un reverse proxy qui détecte l'ajout d'un site,
 génère un certificat SSL SAN pour les noms associés sans aucune action de notre part :)

@@ -4,6 +4,7 @@ title = "DPD, pour la livraison de vos colis en France et à l’étranger"
 h1 = "DPD, expert de la livraison à domicile ou en point relais"
 description = "Avec DPD, vos clients e-commerce se font livrer leurs colis à domicile, à l’horaire de leur choix, ou les retirent en point relais. Plus d’infos ici."
 draft = false
+canonical ="https://www.spiriit.com/magento/ressources/dpd-livraison-magento/"
 +++
 
 Un transporteur de confiance pour assurer la livraison de leurs colis à vos clients : voilà ce dont vous avez besoin pour satisfaire et fidéliser vos internautes. Parmi les experts de la [livraison](/ecommerce/tunnel-de-vente/livraison/) figure DPD, une entreprise spécialisée dans le transport des colis de moins de 30 kg et des documents en France, en Europe et à l’international. DPD propose différentes formules et des modules e-commerce pour une intégration dans votre interface web. Nous vous proposons d’en savoir plus sur l’offre de ce transporteur.

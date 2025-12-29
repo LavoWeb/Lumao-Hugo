@@ -4,6 +4,7 @@ title = "Global-e : développez votre e-business à l’international"
 h1 = "Global-e, un leader des solutions e-commerce transfrontalier"
 description = "Vous souhaitez vendre vos produits à l’international ? Découvrez des solutions pour gérer toutes les contraintes liées au e-commerce transfrontalier."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/global-e-international-magento/"
 +++
 
 Alors que le e-commerce gagne de plus en plus de terrain dans les habitudes des consommateurs, ces derniers achètent désormais aussi à l’étranger. Et les sites de vente en ligne doivent évidemment s’adapter pour ne pas passer à côté d’un marché prometteur. Mais dès qu’on se lance dans le e-commerce transfrontalier (ou cross border), les marchands se heurtent à de nombreuses difficultés, à commencer par les livraisons. Pour faciliter les échanges internationaux, les e-commerçants sont nombreux à faire appel à un [partenaire logistique](/ecommerce/tunnel-de-vente/livraison/partenaire-logistique/) spécialisé dans la gestion des commandes à l’international. Global-e en fait partie.

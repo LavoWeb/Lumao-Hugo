@@ -4,6 +4,7 @@ title = "Fredhopper : Améliorez la Recherche et le Merchandising"
 h1 = "Fredhopper, une solution complète de searchandising"
 description = "Installez sur votre boutique Magento une solution logicielle pour optimiser le parcours d’achat et l’expérience en ligne de vos clients. Devis gratuit ici."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/fredhopper-magento/"
 +++
 
 Sur un site e-commerce, il est essentiel de guider le visiteur tout au long du tunnel d’achat, de son arrivée à la validation de sa commande. C’est en effet le meilleur moyen d’augmenter vos chances de le transformer en client. Le moteur de recherche interne de votre site est un levier important pour atteindre cet objectif ; un [moteur de recommandation](/ecommerce/cms/magento/recommandation/) sera encore plus efficace puisque non seulement il guide le visiteur, mais il personnalise aussi son parcours d’achat. Taux de conversion et panier moyen sont alors optimisés. Parmi les outils disponibles actuellement sur le marché figure Fredhopper, une solution SaaS ultra-performante qui réunit de multiples fonctionnalités.

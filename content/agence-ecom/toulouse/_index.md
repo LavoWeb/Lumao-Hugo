@@ -4,6 +4,7 @@ title = "Agence Ecommerce Magento 2 Toulouse - Lumao (31)"
 h1 = "Agence e-commerce Magento 2 Toulouse : l’assurance de votre réussite dans la ville rose"
 description = "Vous cherchez une agence E-Commerce à Toulouse (31) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-toulouse/"
 [[links]]
     text = "Développeur Freelance Magento à Toulouse"
     url = "ecommerce/cms/magento/freelance/toulouse/"

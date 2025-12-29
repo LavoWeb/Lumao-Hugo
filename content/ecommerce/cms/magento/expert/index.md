@@ -11,6 +11,7 @@ contact = true
 hero = false
 subtitle = "L'expert Magento"
 custom = true
+canonical = "https://www.spiriit.com/magento/ressources/experts-magento/"
 +++
 
 <section class="px-8 mx-auto md:container lg:mt-20">
