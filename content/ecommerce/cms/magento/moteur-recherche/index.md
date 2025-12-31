@@ -6,7 +6,14 @@ description = "Découvrez comment la mise en place d’un moteur de recherche in
 draft = false
 canonical = "https://www.spiriit.com/magento/recherche-ecommerce-ia/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/recherche-ecommerce-ia/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Afin d’améliorer l’expérience utilisateur (UX) et de faciliter l’acte d’achat ainsi que la navigation des internautes, il est nécessaire pour un site e-commerce d’avoir un moteur de recherche interne. Ce que permet le CMS e-commerce [Magento](/ecommerce/cms/magento/). Nous allons voir qu’il est possible de le paramétrer pour en faire un véritable moteur de recherche intelligent.
 
 ## Fonctionnalités d’un moteur de recherche interne intelligent

@@ -6,7 +6,14 @@ description = "Le commerce électronique compte de nombreuses expressions, pas t
 draft = false
 canonical = "https://www.spiriit.com/magento/ressources/definition-ecommerce/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/definition-ecommerce/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Le e-commerce regroupe de nombreuses techniques marketing et commerciales appliquées au web. Cette forme de vente à distance s’adapte en effet toujours plus aux besoins et aux habitudes de consommation des internautes. Pour être efficaces et pour voir leur taux de conversion augmenter, les [sites de vente en ligne](/ecommerce/) multiplient les outils et les dispositifs susceptibles de séduire les visiteurs et de les fidéliser. Nous vous proposons d’en découvrir certains à travers ces quelques définitions. 
 
 ## E-commerce : de quoi parle-t-on exactement ?

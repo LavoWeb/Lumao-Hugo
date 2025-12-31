@@ -15,7 +15,14 @@ canonical = "https://www.spiriit.com/magento/ressources/agence-magento-toulouse/
     text = "Consultant Magento Toulouse"
     url = "ecommerce/cms/magento/consultant/toulouse/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-magento-toulouse/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 <p>Quelque part entre Castres, Tarbes et Montauban, vous avez fait le choix de vous installer pour lancer votre activité. Depuis, vous cherchez une agence e-commerce Magento 2 à Toulouse pour vous seconder. Vous pouvez souffler : vous nous avez trouvé.</p>
 <h2>Toulouse : ville solaire à votre image</h2>
 

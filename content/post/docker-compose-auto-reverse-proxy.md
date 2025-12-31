@@ -5,6 +5,14 @@ description = "Comment réaliser un reverse proxy automatique pour Docker ? Déc
 draft = false
 canonical = "https://www.spiriit.com/magento/ressources/docker-compose-reverse-proxy-automatique/"
 +++
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/docker-compose-reverse-proxy-automatique/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Dans cet article, on va voir comment faire un reverse proxy qui détecte l'ajout d'un site,
 génère un certificat SSL SAN pour les noms associés sans aucune action de notre part :)
 

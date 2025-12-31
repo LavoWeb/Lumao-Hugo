@@ -6,18 +6,15 @@ description = "Assurez la pérennité de votre site e-commerce Magento avec une 
 draft = false
 canonical = "https://www.spiriit.com/magento/maintenance-magento-performance/"
 +++
-
-Le web est en évolution permanente. De nouvelles fonctionnalités et extensions sont progressivement disponibles pour enrichir les sites internet ; et à leurs côtés naissent aussi de nouvelles failles de sécurité et des sources potentielles de bugs. Autant dire que votre site e-commerce peut bénéficier de pistes d’amélioration significatives et souffrir de problèmes techniques graves. Ce qui est préjudiciable, surtout pour un site e-commerce. C’est pourquoi la maintenance de votre site marchand sur le long terme doit être au cœur de vos préoccupations, que vous vous en occupiez vous-même en interne ou que vous déléguiez cette mission à un prestataire externe tel que Lumao, agence experte en sites e-commerce et de la plateforme Magento. Open source, celle-ci demande de l’attention au quotidien. Prenez soin de votre site de vente en ligne et assurez sa pérennité avec un contrat de maintenance.
-
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">
-    🧭 Vous cherchez à aller plus loin qu’une maintenance corrective ?<br>
-    👉 Découvrez notre approche d’audit global et <strong>TMA orientée résultats</strong>, pensée pour stabiliser, accélérer et rentabiliser votre Magento sans tout refaire.
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
   </p>
-  <a href="/ecommerce/cms/maintenance-magento-performance/" class="btn btn-primary mt-2 !text-white">
-    Découvrir l’offre
+  <a href="https://www.spiriit.com/magento/maintenance-magento-performance/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
   </a>
 </div>
+Le web est en évolution permanente. De nouvelles fonctionnalités et extensions sont progressivement disponibles pour enrichir les sites internet ; et à leurs côtés naissent aussi de nouvelles failles de sécurité et des sources potentielles de bugs. Autant dire que votre site e-commerce peut bénéficier de pistes d’amélioration significatives et souffrir de problèmes techniques graves. Ce qui est préjudiciable, surtout pour un site e-commerce. C’est pourquoi la maintenance de votre site marchand sur le long terme doit être au cœur de vos préoccupations, que vous vous en occupiez vous-même en interne ou que vous déléguiez cette mission à un prestataire externe tel que Lumao, agence experte en sites e-commerce et de la plateforme Magento. Open source, celle-ci demande de l’attention au quotidien. Prenez soin de votre site de vente en ligne et assurez sa pérennité avec un contrat de maintenance.
 
 ## La maintenance d’un site e-commerce : en quoi cela consiste ?
 

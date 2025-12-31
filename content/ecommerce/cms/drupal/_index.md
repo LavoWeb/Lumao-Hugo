@@ -6,7 +6,14 @@ description = "Grâce à Drupal Commerce, vous pouvez faire de la vente en ligne
 draft = false
 canonical = "https://www.spiriit.com/magento/ressources/cms-drupal-vs-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/cms-drupal-vs-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Drupal est un [CMS e-commerce](/ecommerce/cms/) open source gratuit, c’est-à-dire un outil de gestion de contenu permettant de faire de l’e-commerce grâce à son module Commerce. Avant de créer votre boutique en ligne, vous devez déterminer quel CMS (Content System Manager) sera le plus adapté à vos besoins.
 
 ## Présentation du CMS Drupal 

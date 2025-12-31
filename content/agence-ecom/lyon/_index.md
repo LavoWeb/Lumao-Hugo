@@ -16,7 +16,14 @@ draft = false
 
 canonical = "https://www.spiriit.com/magento/ressources/agence-magento-lyon/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-magento-lyon/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 A Lyon comme partout en France, notre agence web vous accompagne dans la réalisation de tous vos projets, de la création d’une boutique en ligne à la refonte d’un site internet, en passant par la définition de votre stratégie digitale, le référencement naturel, etc. Lumao est une [agence e-commerce](/agence-ecom/) animée par des experts qui vous proposent des solutions sur mesure, adaptées à vos besoins et à vos objectifs.
 
 ## Création de sites e-commerce à Lyon

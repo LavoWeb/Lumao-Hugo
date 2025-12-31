@@ -16,7 +16,14 @@ draft = false
 
 canonical = "https://www.spiriit.com/magento/ressources/agence-magento-paris/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-magento-paris/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Pour vendre vos produits ou proposer vos services sur internet, faites appel à des experts du e-commerce. Seuls des professionnels rompus aux métiers du web et au marketing digital seront en mesure de vous accompagner dans votre projet. Notre [agence e-commerce](/agence-ecom/) se charge de développer votre site, mais aussi de l’optimiser, de le faire évoluer, de le refondre, d’assurer sa migration, de l’héberger… Rien n’est laissé au hasard. Ainsi, votre activité en ligne est propulsée sur la voie du succès.
 
 ## A Paris, votre projet e-commerce est entre de bonnes mains

@@ -6,7 +6,14 @@ description = "Découvrez la plateforme web Commerce Cloud (ex-Demandware), le C
 draft = false
 canonical = "https://www.spiriit.com/magento/ressources/demandware-ou-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/demandware-ou-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Entreprises et commerçants ont à leur disposition un large panel d’outils. Grâce à eux, ils ont la possibilité non seulement de commercialiser leurs produits et services, mais aussi de développer des actions marketing et commerciales, de gérer leurs stocks, de connaitre leurs clients, etc. Pour vendre en ligne, c’est d’un [CMS e-commerce](/ecommerce/cms/) qu’ils ont besoin. Et ces logiciels qui permettent de créer et de gérer une boutique en ligne sont très nombreux sur le marché. Difficile de s’y retrouver. Nous vous proposons ici de faire connaissance avec Demandware, un CMS qui fait désormais partie du portefeuille de produits proposé par le géant du CRM, Salesforce.
 
 ## Présentation de Demandware

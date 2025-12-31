@@ -16,7 +16,14 @@ draft = false
 
 canonical = "https://www.spiriit.com/magento/ressources/agence-magento-marseille/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-magento-marseille/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 <p>Notre mission : créer pour vous un site web clé sur mesure</p>
 <p>Chacun sa partie ! Si vous êtes spécialisé en art, en bijouterie, en prêt-à-porter ou dans les articles de sport, vous n’avez pas forcément les compétences ou le temps nécessaire pour réaliser et mettre en ligne un site internet.</p>
 <p>Nom de domaine, hébergement, choix du CMS, design, options, extensions, contenus, paramètres… Tant de choses à penser et à anticiper, tant de connaissances à rassembler et à mettre en œuvre… Une agence e-commerce Magento 2 à Marseille pourrait vous être d’une aide précieuse.</p>

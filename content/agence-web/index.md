@@ -6,7 +6,14 @@ description = "Confiez votre communication Web à notre agence pour une visibili
 draft = false
 canonical = "https://www.spiriit.com/magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 La création de votre site web pourra être faite par nos équipes. Au sein de Lumao, nous développons
 pour vous les sites e-commerce dont votre business a besoin. Nous vous permettons d’avoir une
 présence sur le net et d’offrir à vos clients une expérience réussie dans leurs achats en ligne.

@@ -6,7 +6,14 @@ description = "Cegid propose des logiciels de gestion aux entreprises. Découvre
 draft = false
 canonical = "https://www.spiriit.com/magento/ressources/integration-erp-cegid-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/integration-erp-cegid-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Les experts-comptables connaissent bien les solutions proposées par Cegid. En effet, cet éditeur français fournit des logiciels de gestion spécialisés à un expert-comptable sur deux. Créée dans les années 80, cette entreprise a pris à bras le corps les enjeux de la gestion financière, comptable et fiscale. Cegid propose aussi un [progiciel ERP](/ecommerce/cms/magento/erp/) (Enterprise Resource Planning) aux TPE/PME. Nous vous proposons de faire connaissance avec cet acteur majeur des logiciels en France.
 
 ## Présentation de Cegid

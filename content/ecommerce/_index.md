@@ -6,7 +6,14 @@ description = "Créez votre boutique en ligne avec les experts Lumao, spécialis
 draft = false
 canonical = "https://www.spiriit.com/magento/replatforming-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/replatforming-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Vous souhaitez développer votre activité professionnelle sur internet ? Vous avez besoin d’une ou plusieurs boutique(s) en ligne ? Pour proposer sur la toile vos produits et vos services, il vous faut un projet web. Les experts de Lumao, spécialistes du e-commerce et de la plateforme Magento, mettent à votre service leur savoir-faire. Faites-nous part de vos objectifs pour que nous vous proposions un devis sur mesure. Nous vous accompagnons tout au long de la création de votre site e-commerce, de sa conception à son développement, en passant par sa maintenance et son optimisation. Quels que soient la taille de votre catalogue, la langue, les devises et les moyens de paiement acceptés, le nombre de pages à gérer, les connexions avec vos systèmes d’informations… : nous avons les solutions pour mener à bien votre projet e-commerce.
 
 ## Comment créer un site de vente en ligne ?

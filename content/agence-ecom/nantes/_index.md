@@ -16,7 +16,14 @@ draft = false
 
 canonical = "https://www.spiriit.com/magento/ressources/agence-magento-nantes/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-magento-nantes/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 <p>Le réseau internet est aujourd’hui la base de l'immense majorité des échanges commerciaux mondiaux. Pour votre boutique en ligne comme pour les géants du e-commerce, la démarche est la même : acquérir l’autorité et la visibilité nécessaire.</p>
 <p>Disposer d’un système de paiement fiable, d’une interface attractive et réactive et d’un catalogue le plus large possible, est en effet l’assurance – ou presque – d’un commerce digital qui fonctionne.</p>
 <p>Basé en Loire-Atlantique vous êtes à la recherche du prestataire qui saura partager avec vous ses compétences et donner à votre boutique en ligne existante le second souffle dont elle a besoin ?</p>

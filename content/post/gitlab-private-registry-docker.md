@@ -5,6 +5,14 @@ description = "Découvrez la création d'un registry Docker privé, avec GitLab,
 draft = false
 canonical = "https://www.spiriit.com/magento/ressources/gitlab-registry-docker-prive/"
 +++
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/gitlab-registry-docker-prive/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Aller sur Gitlab.com
 
 Créer un repo privé

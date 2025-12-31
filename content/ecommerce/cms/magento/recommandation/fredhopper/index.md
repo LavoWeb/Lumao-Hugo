@@ -6,7 +6,14 @@ description = "Installez sur votre boutique Magento une solution logicielle pour
 draft = false
 canonical = "https://www.spiriit.com/magento/ressources/fredhopper-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/fredhopper-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Sur un site e-commerce, il est essentiel de guider le visiteur tout au long du tunnel d’achat, de son arrivée à la validation de sa commande. C’est en effet le meilleur moyen d’augmenter vos chances de le transformer en client. Le moteur de recherche interne de votre site est un levier important pour atteindre cet objectif ; un [moteur de recommandation](/ecommerce/cms/magento/recommandation/) sera encore plus efficace puisque non seulement il guide le visiteur, mais il personnalise aussi son parcours d’achat. Taux de conversion et panier moyen sont alors optimisés. Parmi les outils disponibles actuellement sur le marché figure Fredhopper, une solution SaaS ultra-performante qui réunit de multiples fonctionnalités.
 
 ## Présentation générale

@@ -6,7 +6,14 @@ description = "Avec DPD, vos clients e-commerce se font livrer leurs colis à do
 draft = false
 canonical ="https://www.spiriit.com/magento/ressources/dpd-livraison-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/dpd-livraison-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Un transporteur de confiance pour assurer la livraison de leurs colis à vos clients : voilà ce dont vous avez besoin pour satisfaire et fidéliser vos internautes. Parmi les experts de la [livraison](/ecommerce/tunnel-de-vente/livraison/) figure DPD, une entreprise spécialisée dans le transport des colis de moins de 30 kg et des documents en France, en Europe et à l’international. DPD propose différentes formules et des modules e-commerce pour une intégration dans votre interface web. Nous vous proposons d’en savoir plus sur l’offre de ce transporteur.
 
 ## Présentation de DPD

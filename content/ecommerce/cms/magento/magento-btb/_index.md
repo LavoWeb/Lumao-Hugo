@@ -6,6 +6,14 @@ description = "Magento / Adobe est la solution parfaite pour vous lancer dans le
 draft = false
 canonical = "https://www.spiriit.com/magento/magento-b2b/"
 +++
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/magento-b2b/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Avant de lancer un projet e-commerce quel qu’il soit, le plus important est de réunir les compétences et les ressources adéquates. Prenons [Magento BTB](/ecommerce/cms/magento/) par exemple ! Il est le parfait outil open source pour créer un commerce B2B avec Adobe Commerce, de son nouveau nom.
 
 ## En 2022, une nette augmentation du e-commerce BTB
