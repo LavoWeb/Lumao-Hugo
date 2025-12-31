@@ -4,8 +4,16 @@ title = "Hébergement haute performance pour votre site Magento"
 h1 = "Choisissez un hébergement haute performance pour votre site e-commerce Magento"
 description = "Quel hébergement choisir pour votre site de vente en ligne ? Expert e-commerce, Lumao vous conseille et met en place la solution adaptée à vos besoins."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/hebergement-magento-haute-performance/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/hebergement-magento-haute-performance/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Vous avez choisi un CMS e-commerce open source, par exemple Magento ou PrestaShop, pour créer et gérer votre [site de vente en ligne](/ecommerce/). Celui-ci doit aussi être hébergé sur un serveur afin d’être accessible sur internet. Les solutions d’hébergement sont très nombreuses sur le marché. Et toutes ne sont pas adaptées à votre projet web. Voici des informations pour vous aider à voir plus clair dans le monde des hébergeurs. Et Lumao vous propose un service 100 % sur mesure, un hébergement e-commerce à la fois performant, fiable et sécurisé.
 
 <div class="grid grid-cols-2 gap-4 sm:gap-8 sm:grid-cols-4 xl:gap-16">

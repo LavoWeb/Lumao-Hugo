@@ -4,7 +4,16 @@ title = "Docker : plateforme pour créer et gérer des conteneurs"
 h1 = "Docker : la plateforme de conteneurs la plus populaire"
 description = "Découvrez Docker, une plateforme populaire qui vous permet de créer et de déployer des applications sous la forme de conteneurs. Plus d’infos ici."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/docker-environnement-magento/"
 +++
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/docker-environnement-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 
 La configuration de votre [hébergement](/ecommerce/hebergement/) doit être optimale pour que l’ensemble de vos applications fonctionnent correctement. C’est un enjeu d’autant plus crucial que les applications se complexifient tous les jours un peu plus. Depuis quelques années, une technique prend de l’ampleur et séduit un nombre croissant de développeurs : la containerisation. Les conteneurs ne sont pas une nouveauté, mais avec Docker, ils se sont considérablement démocratisés. Grâce à ce logiciel, il est désormais possible de profiter des avantages des conteneurs et de déployer facilement un grand nombre d’applications sur quantité de serveurs.
 

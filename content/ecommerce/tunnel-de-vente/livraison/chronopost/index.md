@@ -4,8 +4,16 @@ title = "Chronopost & Chronofresh : livraison de colis et produits frais"
 h1 = "Chronopost, expert du transport rapide en France et de la livraison de produits frais avec Chronofresh"
 description = "Offrez à vos clients internet des solutions de livraison express de leurs colis et produits frais, à leur domicile, en point relais ou dans votre boutique."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/chronopost-livraison-ecommerce-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/chronopost-livraison-ecommerce-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Pour que vos clients soient livrés en temps et en heure, il vous faut un transporteur de confiance. Chronopost est le n°1 au niveau national de la [livraison express](/ecommerce/tunnel-de-vente/livraison/) de colis. Ce service a été créé dans les années 80 par La Poste et sa réputation n’est plus à faire. Depuis, la société a diversifié ses services, notamment pour les adapter aux problématiques du e-commerce. Elle propose aussi un service de livraison unique, Chronofresh, destiné aux acteurs de l’agroalimentaire.
 
 ## Présentation de Chronopost

@@ -4,8 +4,16 @@ title = "Amazon Web Services, Google Cloud Platform ou Azure ? "
 h1 = "AWS, GCP, Azure : les géants de l’hébergement sur le Cloud"
 description = "AWS, GCP, Microsoft Azure : quelle solution choisir pour votre hébergement sur le Cloud ? Lumao vous aide à faire votre choix et à la mettre en œuvre."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/hebergement-cloud-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/hebergement-cloud-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Ce sont les géants mondiaux de l’[hébergement](/ecommerce/hebergement/) web. En tête, on trouve Amazon, lequel est talonné de plus en plus près par Google et Microsoft. D’autres fournisseurs de solutions existent, dont le Français OVH ou encore IBM. Tous se sont lancés dans une guerre des prix afin de convaincre les entreprises et les professionnels du monde entier de recourir à leurs services de cloud computing. Nous vous proposons d’en savoir plus sur ces trois mastodontes de l’hébergement Cloud.
 
 ## Amazon Web Services : le leader du marché

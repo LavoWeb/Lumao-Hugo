@@ -4,8 +4,16 @@ title = "Agence Ecommerce Magento 2 & Agence web E-commerce LUMAO"
 h1 = "Agence ecommerce Magento 2 : pourquoi la choisir et comment la trouver ?"
 description = "Vous recherchez une agence Ecommerce ? Nous sommes spécialisés dans Magento 2 depuis plus de 10 ans. Déjà + de 100 boutiques en ligne. Découvrez Lumao"
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/agence-e-commerce-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-e-commerce-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Souhaiter un e-commerce pour le développement de son activité sur le web est dans bien des cas
 une excellente décision. Toutefois, il est nécessaire de confier la création de ce site unique et
 particulier à une agence qui maitrise tous les tenants et aboutissants de cette création.

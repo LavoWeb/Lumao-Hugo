@@ -4,8 +4,16 @@ title = "FedEx, transport express de fret en France et à l’international"
 h1 = "FedEx, leader du transport de fret express à l’international"
 description = "Vous cherchez des informations sur le transporteur FedEx ? Cette page vous serez très certainement utile. Il suffit de cliquer ici."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/fedex-transport-international-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/fedex-transport-international-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 C’est sans conteste l’un des leaders mondiaux de la [livraison express de colis](/ecommerce/tunnel-de-vente/livraison/). Depuis les années 70, FedEx a développé un des réseaux de transport les plus denses à la fois dans les airs et sur terre. Et désormais, avec un immense hub à l’aéroport de Roissy Paris-Charles-de-Gaulle et le rachat du groupe de messagerie néerlandais TNT Express, FedEx est résolument ancré en Europe. Si vous souhaitez vendre vos produits à l’international, notamment outre-Atlantique, alors FedEx est certainement une des meilleures solutions de livraison pour votre site e-commerce. Nous vous expliquons pourquoi.
 
 ## Présentation de FedEx

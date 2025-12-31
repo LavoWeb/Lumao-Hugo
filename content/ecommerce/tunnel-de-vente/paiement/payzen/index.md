@@ -4,8 +4,16 @@ title = "PayZen : solution française de paiement en ligne"
 h1 = "PayZen, solution française de paiement en ligne sécurisé"
 description = "Vous recherchez une solution de paiement complète et sécurisée pour votre site marchand ? Découvrez PayZen, une plateforme aux multiples fonctionnalités."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/payzen-paiement-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/payzen-paiement-magento/" class="btn btn-primary mt-2 !text-white">
+    A découvrir ici
+  </a>
+</div>
 Pour que votre site e-commerce enregistre des ventes, celui-ci doit évidemment proposer aux acheteurs des solutions de [paiement](/ecommerce/tunnel-de-vente/paiement/). Elles sont multiples. Si vous souhaitez que vos clients règlent leurs achats en ligne, vous devrez sans doute mettre en place une solution qui leur permet d’utiliser leur carte bancaire. Un contrat VAD avec une banque est alors nécessaire ; mais vous n’êtes pas obligé d’intégrer la solution de cet établissement bancaire. Vous pouvez en effet faire appel à un acteur tiers tel que PayZen. Cette plateforme de paiement assure la liaison entre la banque de vos acheteurs et la vôtre. Le tout de manière entièrement sécurisée.
 
 ## Présentation de PayZen

@@ -4,8 +4,16 @@ title = "Développement Magento 2 : Réalisez votre Projet Web "
 h1 = "Développement Magento : des experts au service des e-commerçants"
 description = "Faites appel à des experts Magento pour développer votre site e-commerce et optimiser votre activité en ligne. Demandez  un devis sur mesure & gratuit"
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/experts-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/experts-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 La plateforme [Magento](/ecommerce/cms/magento/) est un CMS (Content Management System), c’est-à-dire un système de gestion de contenu permettant de créer et de développer des sites e-commerce. En effet, les boutiques en ligne sont réalisées soit sous Magento, soit sous Prestashop, soit via un développement spécifique HTML et PHP pour un site sur mesure. Voyons pourquoi il faut développer son site sous Magento avec un développeur web.
 
 ## Le CMS Magento, une solution open source évolutive
