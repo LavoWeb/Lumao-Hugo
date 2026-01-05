@@ -10,8 +10,16 @@ draft = false
 [[links]]
     text = "Prestataire Magento Aix en Provence"
     url = "ecommerce/cms/magento/prestataire/aix-en-provence/"
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-aix-en-provence/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-magento-aix-en-provence/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Nichée entre le riche parc national du Lubéron et la cosmopolite cité phocéenne en plein cœur de la région Provence-Alpes-Côte d’Azur, la ville d’Aix-en-Provence tend les bras à qui souhaite la découvrir et pourquoi pas, s’y installer. C’est notamment pour cette raison que Lumao, votre agence ecommerce spécialisée Magento 2, a décidé de vous y rencontrer. Devant un café ou le temps d’une soupe au pistou, présentez-nous votre projet !
 
 ## Pourquoi faire appel à une agence e-commerce pour votre business 

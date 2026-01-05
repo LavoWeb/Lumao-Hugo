@@ -4,8 +4,16 @@ title = "Akeneo PIM : Gérez vos Données Produits Efficacement"
 h1 = "Akeneo, 1ère solution PIM open source du marché"
 description = "Découvrez Akeneo PIM et faites appel à Lumao, agence spécialisée en développement Akeneo, pour votre solution de gestion de l’information produit."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/akeneo-pim/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/akeneo-pim/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Les entreprises, les marques, les distributeurs… gèrent souvent des catalogues produits recensant des centaines, voire des milliers de références. Difficile de s’y retrouver, surtout quand une nouvelle collection apparait ou qu’un fournisseur modifie sa gamme. Les risques d’erreur se multiplient et elles risquent d’impacter les consommateurs. En effet, les informations relatives à ces produits sont disponibles en ligne, sur vos sites e-commerce, mais aussi sur les marketplaces où vous êtes présents, les réseaux sociaux, etc. Comment rationaliser la gestion de cet important volume de données ? Avec une solution [PIM](/ecommerce/cms/magento/pim/) (Product Information Management). Editeur français de logiciel PIM, Akeneo est devenu en quelques années la référence en la matière. 
 
 ## Présentation d’Akeneo

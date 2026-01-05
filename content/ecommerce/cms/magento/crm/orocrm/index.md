@@ -4,8 +4,16 @@ title = "OroCRM | Ciblez vos clients et vos actions marketing"
 h1 = "OroCRM, un CRM adapté au e-commerce"
 description = "OroCRM est un logiciel dédié à la gestion de la relation client. Grâce à ces multiples fonctionnalités, il s’adapte aux besoins de tous les e-commerçants."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/crm-ecommerce-orocrm-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/crm-ecommerce-orocrm-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Si vous commercialisez vos produits sur un site e-commerce développé sous Magento, alors OroCRM est fait pour vous. Certes, cet outil de gestion de la relation client peut se connecter à bien d’autres applications, mais c’est avec Magento que son utilisation est optimisée. En effet, ce [CRM](/ecommerce/cms/magento/crm/) open source a été créé par des anciens de Magento, dont le co-fondateur de la célèbre plateforme e-commerce. Découvrez cette solution flexible et robuste, adaptée aux besoins de tous les e-commerçants.
 
 ## Présentation de OroCRM

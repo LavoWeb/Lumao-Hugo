@@ -13,8 +13,16 @@ draft = false
 [[links]]
     text = "Consultant Magento Montpellier"
     url = "ecommerce/cms/magento/consultant/montpellier/"
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-montpellier/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-magento-montpellier/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 <p>Acteur local du commerce digital dans votre ville, voilà plusieurs années que vous gérez tout vous-même, depuis le back-office jusqu’à l’ajout des produits après leur commande auprès des différents fournisseurs en passant par la remontée des bugs clients.</p>
 <p>Votre entreprise fonctionne, la clientèle et les commandes affluent, mais vous devez de plus en plus souvent faire face à des questions techniques. Vous ressentez le besoin de vous appuyer sur des ressources plus spécialisées.</p>
 <p>Vous avez besoin d’une équipe d’experts installée au cœur de la ville rose capable de vous conseiller, de vous orienter et de solutionner les défis qui se présentent à vous pour développer votre entreprise et la rendre toujours plus pérenne.</p>
