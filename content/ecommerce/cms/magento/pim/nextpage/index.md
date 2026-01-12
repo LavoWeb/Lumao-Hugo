@@ -4,8 +4,16 @@ title = "NextPage : valorisez vos données produits & créez vos catalogues"
 h1 = "NextPage, créez tous vos catalogues produits efficacement à partir de vos données"
 description = "Découvrez nextPage, une solution PIM qui vous permet de créer automatiquement vos catalogues produits à partir de vos données produits. Plus d’infos ici."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/catalogue-produits-magento-nextpage/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/catalogue-produits-magento-nextpage/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Désormais, entreprises, marques, distributeurs… sont abonnés au multicanal. Cela signifie qu’elles commercialisent leur offre sur de nombreux canaux : sur leurs sites de vente en ligne, mais aussi dans des points de vente physiques, sur mobile, sur catalogue papier… Autant de supports, physiques et numériques qui sont alimentés par des informations produits, lesquelles représentent un (très) important volume de données. Pour optimiser leur gestion, les professionnels se tournent vers les solutions [PIM](/ecommerce/cms/magento/pim/) (Product Information Management), des outils puissants qui permettent de rationaliser l’offre et de la rendre accessible à tous les acteurs de l’entreprise. Parmi ces outils de gestion figure nextPage, une solution web créée en 2009 par 3c-evolution.
 
 ## Présentation de nextPage

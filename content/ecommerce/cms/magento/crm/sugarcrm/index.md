@@ -4,8 +4,16 @@ title = "SugarCRM, logiciel de gestion de la relation client "
 h1 = "SugarCRM, l’essentiel de la gestion de la relation client"
 description = "Dans la grande famille des CRM figure en bonne place SugarCRM. Découvrez ce logiciel open source de gestion de la relation client et ses fonctionnalités."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/crm-sugarcrm-integration-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/crm-sugarcrm-integration-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Construire des relations uniques avec vos clients : voilà un objectif que les [CRM](/ecommerce/cms/magento/crm/) vous aident à atteindre. En effet, ces puissants outils de gestion centralisent toutes les données relatives à vos clients ainsi qu’à vos prospects, et répertorient l’ensemble de leurs interactions avec votre entreprise. Si vous aussi, vous placez le client au cœur de votre stratégie, vous avez besoin d’un CRM. Mais lequel choisir ? Nous vous proposons de découvrir un des leaders en la matière et qui se distingue souvent par son bon rapport qualité-prix : SugarCRM.
 
 ## Présentation de SugarCRM

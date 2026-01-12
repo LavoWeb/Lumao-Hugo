@@ -4,7 +4,16 @@ title = "UPS : Livraison de Colis et Service pour le e-commerce"
 h1 = "UPS, spécialiste de la livraison express de colis"
 description = "UPS propose des solutions de livraison express de colis ainsi que des services spécialement adaptés au e-commerce : point de retrait, retours produits..."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/integration-ups-magento/"
 +++
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/integration-ups-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 
 En raison de la couleur brune des uniformes des employés de la société, on la surnomme « Big Brown ». Autant dire qu’elle est facilement identifiable et que sa réputation n’est plus à faire. UPS existe depuis le début du 20e siècle et, en plus d’un siècle, elle a évidemment modernisé ses services de transports express, notamment à l’attention des e-commerçants. Nous vous proposons d’en savoir plus sur les [services de livraison](/ecommerce/tunnel-de-vente/livraison/) proposés par ce leader mondial du transport express.
 

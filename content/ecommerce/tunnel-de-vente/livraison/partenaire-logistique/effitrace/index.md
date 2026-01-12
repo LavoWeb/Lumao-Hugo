@@ -4,8 +4,16 @@ title = "EffiTrace : logiciel de gestion logistique et d’entrepôt"
 h1 = "EffiTrace, un logiciel pour gérer vos stocks et votre logistique e-commerce"
 description = "Découvrez EffiTrace. Ce logiciel répond aux besoins des e-commerçants qui gèrent en interne leur logistique ou qui l’ont externalisée. Plus d’infos ici."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/effitrace-logistique-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/effitrace-logistique-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 La gestion des stocks est une mission cruciale de l’e-commerçant. Sur une boutique en ligne, pas question de vendre un produit qui n’est plus disponible, véritable source de frustration et d’insatisfaction pour vos clients. Mais comment contrôler efficacement l’état de ses stocks, côté entrepôt et côté site de vente en ligne ? Avec un logiciel adapté. EffiTrace est un logiciel WMS créé par EffiSYS, un [partenaire logistique français](/ecommerce/tunnel-de-vente/livraison/partenaire-logistique/) qui met ses services à disposition des e-commerçants d’une part, des logisticiens d’autre part. Nous vous proposons de découvrir cette solution de gestion logistique e-commerce.
 
 ## Présentation d’EffiTrace
