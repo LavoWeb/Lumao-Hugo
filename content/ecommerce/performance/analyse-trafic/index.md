@@ -4,8 +4,16 @@ title = "Analyse du trafic : exploitez les données de votre site web"
 h1 = "L’analyse du trafic : connaissez votre audience"
 description = "La mesure de l’audience et la connaissance du trafic de votre site marchand vous permettent de l’optimiser. Lumao vous accompagne dans cette analyse."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/analyse-trafic-ecommerce-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/analyse-trafic-ecommerce-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Combien de visites enregistre chaque jour votre site ? D’où viennent les internautes ? Quel est leur profil ? Combien de temps restent-ils sur votre boutique ? Autant de questions auxquelles peut répondre l’analyse du trafic et qui permettent de [mesurer la performance e-commerce d’un site](/ecommerce/performance/). Mais comment procéder à cette étude d’audience et comment exploiter les résultats ? Nous vous proposons d’en savoir plus. 
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">

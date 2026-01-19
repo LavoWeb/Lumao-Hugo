@@ -16,8 +16,16 @@ draft = false
 [[links]]
     text = "Agence Magento Le Havre"
     url = "agence-ecom/le-havre/"
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-geneve/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-magento-geneve/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Désormais, le commerce en ligne est une piste incontournable pour les marques suisses qui souhaitent optimiser leur chiffre d’affaires et séduire davantage de clients. Mais pour proposer aux internautes une expérience sur internet séduisante et convaincante, il est nécessaire plus que jamais de faire appel à des experts, à la fois du marketing digital et du développement web. Ces compétences, notre [agence e-commerce](/agence-ecom/) les met à votre service exclusif. En étroite collaboration avec vous, nous définissons la meilleure stratégie à même de vous faire atteindre vos objectifs pour ensuite concevoir un site internet sur mesure.
 
 ## Votre boutique en ligne sur mesure
