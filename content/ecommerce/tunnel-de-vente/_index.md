@@ -4,7 +4,16 @@ title = "Tunnel de Vente : le Parcours d'Achat de vos Clients"
 h1 = "Tunnel de vente : les étapes du parcours d’achat en ligne"
 description = "Quelles sont les étapes fondamentales d’un parcours d’achat en ligne ? Lumao vous explique ce qu’est le tunnel de vente et comment le rendre optimal."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/tunnel-de-vente-ecommerce/"
 +++
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/tunnel-de-vente-ecommerce/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 
 Comment les internautes vont-ils concrètement acheter des produits sur votre site de vente en ligne ? Un site e-commerce n’est pas qu’un catalogue de produits ou de services ; il doit permettre à vos clients de commander, de payer et de préciser les conditions de livraison qui leur conviennent. Autant d’actions qui représentent les étapes principales d’un tunnel de vente, ce parcours qui doit être correctement balisé pour mener facilement l’internaute de la découverte du produit à son achat. Vous en saurez plus en lisant ce qui suit.
 
