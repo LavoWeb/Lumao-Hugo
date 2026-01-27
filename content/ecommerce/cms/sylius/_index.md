@@ -4,8 +4,16 @@ title = "Sylius, un Framework e-commerce basé sur Symfony"
 h1 = "Sylius, pour un site e-commerce entièrement sur mesure"
 description = "Sylius permet des développements sur mesure et complexes. Nous vous proposons d’en savoir sur ce Framework, ses avantages et ses inconvénients."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/ecommerce-framework-sylius/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/ecommerce-framework-sylius/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Vous recherchez une solution vous permettant de créer un site de vente en ligne unique et performant ? Les développements sur mesure sont rendus possibles par Sylius, un Framework e-commerce basé sur Symfony qui a le vent en poupe depuis sa création en 2011. Mais en quoi consiste ce type de produits ? Quelles sont ses fonctionnalités ? Comment choisir entre un [CMS e-commerce](/ecommerce/cms/) et un Framework tel que Sylius ? Nous vous donnons quelques éléments de réponse.
 
 ## Présentation de Sylius

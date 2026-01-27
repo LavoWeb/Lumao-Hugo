@@ -10,8 +10,16 @@ draft = false
 [[links]]
     text = "Prestataire Magento Nimes"
     url = "ecommerce/cms/magento/prestataire/nimes/"
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-nimes/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-magento-nimes/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 
 Nîmes fait partie des villes françaises riches d’art et d’histoire. Ses monuments romains sont particulièrement connus et reconnus à travers le monde. C’est donc logiquement dans cette grande ville touristique que Lumao, agence ecommerce Magento 2, a souhaité vous rencontrer.
 

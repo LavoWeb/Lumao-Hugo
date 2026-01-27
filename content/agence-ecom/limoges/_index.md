@@ -10,8 +10,16 @@ draft = false
 [[links]]
     text = "Prestataire Magento Limoges"
     url = "ecommerce/cms/magento/prestataire/limoges/"
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-limoges/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-magento-limoges/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Pour votre commerce en ligne, vous voulez un site clé en main, une interface simple à comprendre, à utiliser et un outil stable et pérenne dans le temps. Nous avons la meilleure réponse à votre besoin. Lumao, agence ecommerce Magento 2 à Limoges vous attend.
 
 ## Magento 2 : votre meilleur allié pour le commerce en ligne

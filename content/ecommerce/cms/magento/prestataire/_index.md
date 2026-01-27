@@ -4,8 +4,16 @@ title = "Intégrateur Magento 2 & Prestataire Ecommerce Magento LUMAO"
 h1 = "Lumao : intégrateur & prestataire ecommerce Magento 2 pour votre projet web"
 description = "Vous recherchez un intégrateur Ecommerce ? Nous sommes un prestataire spécialisé dans Magento 2 depuis plus de 10 ans. Déjà + de 100 boutiques en ligne."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/prestataire-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/prestataire-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Nous sommes un agence de développeurs dédiée à Magento 2. Afin de maitriser complétement un CMS e-commerce, il est nécessaire d’y consacrer tout son temps. C’est pourquoi nous avons choisi très tôt de nous spécialiser uniquement sur Magento (1 et 2). 
 
 Lumao est déjà intervenu en temps que prestataire pour de nombreux sites Ecommerce, B2B et B2C. Si vous êtes à la recherche d’un nouveau prestataire Magento, vous êtes certainement au bon endroit.
