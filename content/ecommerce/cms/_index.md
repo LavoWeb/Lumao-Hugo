@@ -11,8 +11,8 @@ blog = false
 contact = true
 hero = false
 custom = true
+canonical = "https://www.spiriit.com/magento/ressources/solutions-cms-ecommerce/"
 +++
-
 <section class="px-8 mx-auto md:container lg:mt-20">
     <div class="relative w-full">
         <span class="absolute hidden w-2/5 mr-0 bg-gray-200 lg:block h-1/2 left-10 -top-14 -z-1 rounded-3xl"></span>

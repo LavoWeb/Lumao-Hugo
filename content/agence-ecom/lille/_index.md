@@ -13,8 +13,16 @@ draft = false
 [[links]]
     text = "Consultant Magento sur Lille"
     url = "ecommerce/cms/magento/consultant/lille/"
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-lille/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/agence-magento-lille/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 <img class="animate zoomIn margin-auto" src="/images/ville/lille.png" alt="Lille" />
 
 <p>« Développez votre visibilité ». Voilà une expression, ou une promesse presque, que les entrepreneurs entendent de plus en plus souvent de nos jours. Mais que contient-elle ? Qu’entendent par « visibilité » ceux qui l’utilisent ?</p>

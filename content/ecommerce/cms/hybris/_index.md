@@ -4,8 +4,16 @@ title = "SAP Customer Experience / SAP Hybris"
 h1 = "SAP Customer Experience (ex-SAP Hybris)"
 description = "SAP Customer Experience est une suite de solutions cloud de pointe dédiées au marketing, au commerce multicanal et à la relation client. Plus d’infos ici."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/sap-commerce-cloud-vs-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/ressources/sap-commerce-cloud-vs-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 SAP est le leader mondial de l’ERP (Enterprise Resource Planning). Mais l’éditeur allemand propose bien d’autres produits afin de répondre aux besoins des entreprises, toujours en évolution. En effet, les professionnels du e-commerce ont désormais à leur disposition de multiples outils de gestion : ERP, mais aussi PIM, CRM, DAM… et [CMS e-commerce](/ecommerce/cms/). Dans une stratégie omnicanal, il est indispensable que ces différents outils communiquent en entre eux. Pour une gestion facilitée, SAP propose désormais une solution globale et intégrée : SAP Customer Experience.
 
 ## Présentation de SAP
