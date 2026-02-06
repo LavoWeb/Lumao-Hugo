@@ -4,6 +4,7 @@ title = "Agence Ecommerce Magento 2 Lille - Lumao (59)"
 h1 = "Lillois, engagez une agence e-commerce Magento et développez votre présence sur internet"
 description = "Vous cherchez une agence E-Commerce à Lille (59) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
 draft = false
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-lille/"
 [[links]]
     text = "Développeur Freelance Magento à Lille"
     url = "ecommerce/cms/magento/freelance/lille/"
@@ -13,7 +14,6 @@ draft = false
 [[links]]
     text = "Consultant Magento sur Lille"
     url = "ecommerce/cms/magento/consultant/lille/"
-canonical = "https://www.spiriit.com/magento/ressources/agence-magento-lille/"
 +++
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">
