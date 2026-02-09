@@ -3,6 +3,7 @@ date = "2019-08-13"
 title = "Agence e-commerce Genève : marketing digital, création site"
 h1 = "Agence e-commerce à Genève : pour la réussite de votre activité en ligne"
 description = "A Genève, nos experts e-commerce vous accompagnent dans la réalisation de votre projet web et dans sa réussite. Devis gratuit et sur mesure."
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-geneve/"
 draft = false
 [[links]]
     text = "Agence Magento Saint Etienne"
@@ -16,7 +17,7 @@ draft = false
 [[links]]
     text = "Agence Magento Le Havre"
     url = "agence-ecom/le-havre/"
-canonical = "https://www.spiriit.com/magento/ressources/agence-magento-geneve/"
+
 +++
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">

@@ -3,6 +3,7 @@ date = "2022-08-26"
 title = "Agence Ecommerce Magento 2 Limoges - Lumao (87)"
 h1 = "Lumao, l’agence ecommerce Magento 2 pour la création de votre site web à Limoges"
 description = "Vous cherchez une agence E-Commerce à Limoges (87) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-limoges/"
 draft = false
 [[links]]
     text = "Développeur Freelance Magento à Limoges"
@@ -10,7 +11,7 @@ draft = false
 [[links]]
     text = "Prestataire Magento Limoges"
     url = "ecommerce/cms/magento/prestataire/limoges/"
-canonical = "https://www.spiriit.com/magento/ressources/agence-magento-limoges/"
+
 +++
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">

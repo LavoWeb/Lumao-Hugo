@@ -3,6 +3,7 @@ date = "2021-07-23"
 title = "Agence Ecommerce Magento 2 Marseille - Lumao (13)"
 h1 = "Agence E-commerce Magento 2 à Marseille"
 description = "Vous cherchez une agence E-Commerce à Marseille (13) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-marseille/"
 draft = false
 [[links]]
     text = "Développeur Freelance Magento à Marseille"
@@ -14,7 +15,6 @@ draft = false
     text = "Consultant Magento Marseille"
     url = "ecommerce/cms/magento/consultant/marseille/"
 
-canonical = "https://www.spiriit.com/magento/ressources/agence-magento-marseille/"
 +++
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">

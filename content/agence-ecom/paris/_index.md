@@ -3,6 +3,7 @@ date = "2019-08-13"
 title = "Agence e-commerce Paris | Création de site web et boutique"
 h1 = "Agence e-commerce à Paris : votre activité en ligne prend la voie du succès"
 description = "Vous recherchez une agence web à Paris capable de développer une boutique en ligne sur mesure ? Contactez les experts Magento de Lumao. Devis gratuit."
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-paris/"
 draft = false
 [[links]]
     text = "Développeur Freelance Magento à Paris"
@@ -13,8 +14,6 @@ draft = false
 [[links]]
     text = "Consultant Magento Paris"
     url = "ecommerce/cms/magento/consultant/paris/"
-
-canonical = "https://www.spiriit.com/magento/ressources/agence-magento-paris/"
 +++
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">

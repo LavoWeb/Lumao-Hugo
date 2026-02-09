@@ -3,6 +3,7 @@ date = "2019-08-13"
 title = "Agence Ecommerce Magento 2 Nantes  - Lumao (44)"
 h1 = "Agence e-commerce Magento 2 à Nantes : création et maintenance de boutiques en ligne en Loire-Atlantique"
 description = "Vous cherchez une agence E-Commerce à Nantes (44) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-nantes/"
 draft = false
 [[links]]
     text = "Développeur Freelance Magento à Nantes"
@@ -13,8 +14,6 @@ draft = false
 [[links]]
     text = "Consultant Magento Nantes"
     url = "ecommerce/cms/magento/consultant/nantes/"
-
-canonical = "https://www.spiriit.com/magento/ressources/agence-magento-nantes/"
 +++
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">

@@ -3,6 +3,7 @@ date = "2019-08-13"
 title = "Agence e-commerce Lyon | Création de site web"
 h1 = "Agence e-commerce à Lyon : une équipe d’experts à votre service"
 description = "Les experts de notre agence réalisent tous vos projets web : création de boutiques en ligne, de sites internet, développement sur mesure… Devis gratuit."
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-lyon/"
 draft = false
 [[links]]
     text = "Développeur Freelance Magento à Lyon"
@@ -14,7 +15,6 @@ draft = false
     text = "Consultant Magento Lyon"
     url = "ecommerce/cms/magento/consultant/lyon/"
 
-canonical = "https://www.spiriit.com/magento/ressources/agence-magento-lyon/"
 +++
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">

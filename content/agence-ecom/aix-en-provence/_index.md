@@ -3,6 +3,7 @@ date = "2022-08-01"
 title = "Agence Ecommerce Magento 2 Aix en Provence - Lumao (13)"
 h1 = "Aix-en-Provence : pour votre agence ecommerce, misez sur Lumao et Magento 2 !"
 description = "Vous cherchez une agence E-Commerce à Aix en Provence (13) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-aix-en-provence/"
 draft = false
 [[links]]
     text = "Freelance Magento Aix en Provence"
@@ -10,7 +11,7 @@ draft = false
 [[links]]
     text = "Prestataire Magento Aix en Provence"
     url = "ecommerce/cms/magento/prestataire/aix-en-provence/"
-canonical = "https://www.spiriit.com/magento/ressources/agence-magento-aix-en-provence/"
+
 +++
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">

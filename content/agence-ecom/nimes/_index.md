@@ -3,6 +3,7 @@ date = "2022-08-01"
 title = "Agence Ecommerce Magento 2 Nîmes - Lumao (30)"
 h1 = "« Veni, vidi, vici ». L’agence ecommerce Magento 2 Lumao, ouvre ses portes à Nîmes"
 description = "Vous cherchez une agence E-Commerce à  Nîmes (30) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-nimes/"
 draft = false
 [[links]]
     text = "Développeur Freelance Magento à Nimes"
@@ -10,7 +11,7 @@ draft = false
 [[links]]
     text = "Prestataire Magento Nimes"
     url = "ecommerce/cms/magento/prestataire/nimes/"
-canonical = "https://www.spiriit.com/magento/ressources/agence-magento-nimes/"
+
 +++
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">

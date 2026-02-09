@@ -3,6 +3,7 @@ date = "2019-08-13"
 title = "Agence Ecommerce Magento 2 Montpellier  - Lumao (34)"
 h1 = "Commerce digital : votre agence e-commerce Magento 2 à Montpellier"
 description = "Vous cherchez une agence E-Commerce à Montpellier (34) ? Nous sommes des spécialistes de Magento 2. Déjà plus de 100 boutiques en ligne."
+canonical = "https://www.spiriit.com/magento/ressources/agence-magento-montpellier/"
 draft = false
 [[links]]
     text = "Développeur Freelance Magento à Montpellier"
@@ -13,7 +14,7 @@ draft = false
 [[links]]
     text = "Consultant Magento Montpellier"
     url = "ecommerce/cms/magento/consultant/montpellier/"
-canonical = "https://www.spiriit.com/magento/ressources/agence-magento-montpellier/"
+
 +++
 <div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
   <p class="text-base leading-relaxed mb-4">
