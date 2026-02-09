@@ -4,8 +4,16 @@ title = "Conversions : optimisez la performance de votre site web"
 h1 = "Mesurer et optimiser les conversions d’un site e-commerce"
 description = "Agence spécialisée e-commerce, Lumao vos donne les moyens d’optimiser le taux de conversions de votre site marchand. Demandez ici un devis gratuit."
 draft = false
+canonical = "https://www.spiriit.com/magento/conversion-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/conversion-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Quelle que soit son importance, un site marchand a un seul et même objectif : vendre. Pour [mesurer la performance e-commerce d’un site](/ecommerce/performance/), le nombre de produits vendus constitue un indice intéressant de sa santé. Lorsqu’elle est correctement analysée, cette donnée brute est croisée avec d’autres informations. Les résultats de cette étude peuvent intervenir dans l’optimisation du site e-commerce et servir à augmenter son taux de conversion. Nous vous proposons ici de revenir sur la définition d’une transformation, ainsi que sur le taux de conversion et sur les moyens de l’optimiser. Si vous souhaitez que votre site transforme davantage, faites appel à notre agence spécialisée en e-commerce. En fonction de vos objectifs, nous vous soumettrons un devis adapté.
 
 ## Une conversion, c’est quoi exactement ?

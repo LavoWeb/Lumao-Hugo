@@ -4,8 +4,16 @@ title = "Design & UX | Conception d’une bonne expérience utilisateur"
 h1 = "Design & UX : deux alliés inséparables pour créer une expérience utilisateur de qualité"
 description = "Pour qu’un site e-commerce génère des ventes, il doit proposer une bonne expérience utilisateur. Pour en savoir plus sur le design et l'UX, rendez-vous ici"
 draft = false
+canonical = "https://www.spiriit.com/magento/design-magento-sur-mesure/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/design-magento-sur-mesure/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 Créer un [site de vente en ligne](/ecommerce/) est une expérience qui relève parfois du métier d’équilibriste et d’alchimiste. En effet, il faut savoir équilibrer plusieurs composants afin d’avoir un ensemble harmonieux, léger, pratique et agréable à l’œil. Le design et l’UX sont de ceux-là. Lors de la conception de sites web, nous nous attelons à ajuster au mieux l’UX et le design. Si l’on mise à 100 % sur le fonctionnel, le site pourrait paraître amateur et non crédible ; si l’on mise tout sur le design, on obtiendra une belle vitrine, mais qui ne favorisera pas les conversions. Il convient donc d’équilibrer les deux afin de satisfaire les besoins des internautes et de parvenir aux objectifs premiers du site d’e-commerce : vendre.
 
 ## L’objectif du design

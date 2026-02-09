@@ -4,8 +4,16 @@ title = "Connexion SI: couplage des informations entreprise/site "
 h1 = "PIM, ERP, CRM… : la connexion SI au cœur de votre projet e-commerce"
 description = "Faire communiquer votre site marchand avec vos systèmes d’information est primordial. Confiez cette mission à des experts. Plus d’info et devis gratuit ici"
 draft = false
+canonical = "https://www.spiriit.com/magento/integration-si-magento/"
 +++
-
+<div class="bg-gray-100 border-l-4 border-primary p-6 my-12 rounded-xl">
+  <p class="text-base leading-relaxed mb-4">
+    💡 Cet article est désormais disponible dans sa version à jour sur le site Magento de Spiriit.
+  </p>
+  <a href="https://www.spiriit.com/magento/integration-si-magento/" class="btn btn-primary mt-2 !text-white">
+    À découvrir ici
+  </a>
+</div>
 En nous confiant la création de votre [site de vente en ligne](/ecommerce/) une équipe de développeurs met en place la connexion de votre site avec les systèmes d’information (SI) de votre entreprise. Ainsi, des informations aussi variées que les stocks, les fichiers clients, les fichiers fournisseurs… sont mutualisés et partagés entre site e-commerce et logiciels de gestion. 
 
 ## Comment connecter site marchand et SI de manière sécurisée
